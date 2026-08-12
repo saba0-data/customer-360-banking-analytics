@@ -1,0 +1,1001 @@
+Customer_ID,Age,Gender,Occupation,Monthly_Income,City,Account_Balance,Credit_Score,Existing_Loan,Credit_Card,Investment,Insurance,Monthly_Transactions,Digital_Usage,Product_Count,Credit_Card_Score,Investment_Score,Insurance_Score,Loan_Score,Max_Opportunity_Score,Next_Best_Product,Opportunity_Level,Customer_Value
+C0001,59,Male,Self-Employed,164744,Bangalore,342916,719,Yes,Yes,Yes,Yes,83,High,4,70,70,70,45,70,Credit Card,Medium,High Value
+C0002,49,Female,Self-Employed,145684,Chennai,637230,711,Yes,No,No,Yes,47,Medium,2,100,100,70,45,100,Credit Card,High,High Value
+C0003,35,Female,Salaried,89821,Bangalore,306942,710,Yes,No,No,No,25,Medium,1,80,100,100,25,100,Investment,High,Medium Value
+C0004,28,Male,Salaried,116669,Delhi,379174,693,No,No,Yes,No,29,Low,1,55,50,55,55,55,Credit Card,Medium,High Value
+C0005,41,Male,Business,225507,Pune,455957,780,Yes,Yes,Yes,No,95,High,3,70,70,100,70,100,Insurance,High,High Value
+C0006,59,Male,Self-Employed,170601,Delhi,656323,756,Yes,Yes,Yes,Yes,64,Medium,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0007,39,Male,Salaried,113055,Hyderabad,155250,681,No,No,Yes,No,14,Low,1,55,45,80,55,80,Insurance,High,Medium Value
+C0008,43,Female,Salaried,42192,Mumbai,189868,691,No,No,Yes,No,18,Low,1,55,20,55,30,55,Credit Card,Medium,Medium Value
+C0009,31,Male,Salaried,104102,Hyderabad,244567,725,Yes,No,Yes,No,43,Low,2,100,70,100,70,100,Credit Card,High,Medium Value
+C0010,31,Male,Business,164894,Mumbai,257164,674,Yes,Yes,Yes,No,59,Medium,3,45,70,100,45,100,Insurance,High,Medium Value
+C0011,44,Male,Self-Employed,121795,Pune,359930,714,Yes,Yes,Yes,No,50,Low,3,70,70,100,45,100,Insurance,High,High Value
+C0012,56,Female,Self-Employed,101677,Bangalore,121008,680,No,No,No,No,19,Low,0,55,75,80,55,80,Insurance,High,Medium Value
+C0013,60,Male,Salaried,34627,Delhi,150787,701,No,No,Yes,Yes,37,Medium,2,55,20,25,50,55,Credit Card,Medium,Medium Value
+C0014,44,Female,Student,24501,Chennai,106531,641,No,No,No,No,14,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0015,23,Male,Business,249298,Delhi,1078726,729,No,Yes,Yes,No,66,Medium,2,70,50,55,100,100,Loan,High,High Value
+C0016,42,Female,Salaried,135627,Pune,202907,712,Yes,Yes,Yes,Yes,50,Medium,4,70,70,70,45,70,Credit Card,Medium,Medium Value
+C0017,22,Female,Salaried,33255,Hyderabad,65534,634,No,No,No,No,18,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0018,44,Male,Salaried,87433,Chennai,384536,714,Yes,Yes,Yes,Yes,16,Low,4,50,70,70,25,70,Investment,Medium,Medium Value
+C0019,50,Male,Salaried,35213,Bangalore,168097,638,No,No,No,No,21,Low,0,30,50,55,30,55,Insurance,Medium,Medium Value
+C0020,58,Female,Student,14108,Pune,15549,651,No,No,No,No,30,Low,0,30,50,55,50,55,Insurance,Medium,Emerging
+C0021,22,Female,Salaried,49404,Chennai,160269,715,Yes,No,No,No,8,Low,1,80,30,50,0,80,Credit Card,High,Medium Value
+C0022,41,Male,Self-Employed,151545,Pune,327240,753,No,Yes,Yes,No,63,Medium,2,70,70,80,100,100,Loan,High,High Value
+C0023,53,Male,Salaried,55380,Pune,235159,686,Yes,Yes,No,Yes,23,Low,3,25,75,70,25,75,Investment,Medium,Medium Value
+C0024,32,Female,Salaried,121056,Bangalore,410563,701,Yes,Yes,No,Yes,59,Medium,3,70,100,70,45,100,Investment,High,High Value
+C0025,42,Female,Salaried,49173,Mumbai,104206,680,Yes,No,No,Yes,16,Low,2,55,50,45,0,55,Credit Card,Medium,Emerging
+C0026,45,Male,Salaried,83027,Chennai,206489,707,Yes,No,No,Yes,15,Low,2,80,100,70,25,100,Investment,High,Medium Value
+C0027,47,Female,Salaried,53989,Bangalore,227141,642,No,No,Yes,No,33,Medium,1,55,45,80,75,80,Insurance,High,Medium Value
+C0028,48,Male,Self-Employed,143106,Pune,184481,742,Yes,No,No,Yes,38,Low,2,80,75,70,70,80,Credit Card,High,Medium Value
+C0029,36,Female,Business,74519,Bangalore,188912,649,Yes,No,Yes,Yes,55,Medium,3,75,45,70,45,75,Credit Card,Medium,Medium Value
+C0030,35,Male,Business,72439,Mumbai,203775,698,No,No,Yes,Yes,35,Medium,2,55,70,50,75,75,Loan,Medium,Medium Value
+C0031,23,Male,Salaried,148570,Delhi,228997,686,No,Yes,Yes,No,46,Low,2,45,50,55,75,75,Loan,Medium,Medium Value
+C0032,57,Male,Salaried,106949,Chennai,125543,757,Yes,Yes,No,No,56,Medium,2,70,75,100,70,100,Insurance,High,Medium Value
+C0033,27,Female,Salaried,44995,Mumbai,205027,690,No,Yes,No,Yes,16,Low,2,25,55,0,30,55,Investment,Medium,Medium Value
+C0034,41,Male,Business,73559,Hyderabad,316961,635,No,No,No,Yes,24,Low,1,55,100,50,55,100,Investment,High,Medium Value
+C0035,29,Male,Salaried,140887,Chennai,572606,715,No,No,No,No,42,Medium,0,100,80,55,75,100,Credit Card,High,High Value
+C0036,59,Male,Salaried,119049,Mumbai,540533,688,No,No,Yes,Yes,16,Low,2,55,70,50,55,70,Investment,Medium,High Value
+C0037,38,Male,Business,186093,Pune,621201,719,Yes,Yes,No,No,78,Medium,2,70,100,100,45,100,Investment,High,High Value
+C0038,24,Female,Salaried,128000,Chennai,540025,713,No,No,No,No,23,Low,0,80,80,55,55,80,Credit Card,High,High Value
+C0039,45,Male,Salaried,51119,Chennai,137615,642,No,No,No,No,7,Low,0,55,50,80,55,80,Insurance,High,Medium Value
+C0040,34,Female,Salaried,81539,Bangalore,307590,708,Yes,No,Yes,Yes,37,Medium,3,80,70,70,45,80,Credit Card,High,Medium Value
+C0041,29,Female,Self-Employed,74350,Pune,338184,703,No,No,No,Yes,20,Medium,1,80,80,25,55,80,Credit Card,High,Medium Value
+C0042,46,Male,Business,227295,Hyderabad,414534,769,Yes,No,No,Yes,87,High,2,100,100,70,70,100,Credit Card,High,High Value
+C0043,22,Male,Salaried,55517,Delhi,142230,672,No,Yes,No,Yes,5,Low,2,25,30,25,55,55,Loan,Medium,Medium Value
+C0044,40,Male,Salaried,108653,Mumbai,306140,719,No,No,No,Yes,35,Low,1,80,100,50,75,100,Investment,High,High Value
+C0045,48,Male,Student,28950,Bangalore,79021,683,No,No,No,Yes,13,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0046,27,Male,Business,139132,Mumbai,159665,728,No,Yes,No,No,37,Medium,1,50,55,55,100,100,Loan,High,Medium Value
+C0047,28,Male,Salaried,121066,Hyderabad,504685,666,No,No,No,No,70,Low,0,75,80,55,75,80,Investment,High,High Value
+C0048,55,Female,Self-Employed,94546,Hyderabad,469764,668,No,No,No,Yes,25,Low,1,55,100,50,55,100,Investment,High,Medium Value
+C0049,34,Male,Salaried,135686,Chennai,342790,704,No,Yes,Yes,Yes,71,High,3,70,70,50,75,75,Loan,Medium,High Value
+C0050,37,Male,Business,138151,Hyderabad,128749,669,No,Yes,No,No,49,Medium,1,45,75,80,75,80,Insurance,High,Medium Value
+C0051,56,Female,Business,53327,Mumbai,106058,678,No,Yes,No,No,5,Low,1,25,50,80,55,80,Insurance,High,Medium Value
+C0052,60,Male,Salaried,59768,Pune,251371,717,No,No,No,Yes,5,Low,1,80,75,50,55,80,Credit Card,High,Medium Value
+C0053,24,Female,Student,28643,Pune,93000,696,No,No,No,No,13,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0054,22,Female,Business,223860,Chennai,485357,779,No,Yes,Yes,Yes,99,High,3,70,50,25,100,100,Loan,High,High Value
+C0055,26,Male,Business,165945,Delhi,464949,749,Yes,Yes,Yes,Yes,88,High,4,70,50,45,70,70,Credit Card,Medium,High Value
+C0056,24,Female,Salaried,112384,Mumbai,223014,767,Yes,Yes,No,No,44,Medium,2,70,80,75,70,80,Investment,High,Medium Value
+C0057,49,Male,Salaried,76830,Mumbai,212296,708,No,No,Yes,No,11,Low,1,80,70,80,55,80,Credit Card,High,Medium Value
+C0058,38,Male,Salaried,82446,Hyderabad,353028,713,Yes,Yes,Yes,No,35,Medium,3,50,70,100,45,100,Insurance,High,Medium Value
+C0059,46,Male,Self-Employed,175148,Mumbai,587458,689,Yes,Yes,Yes,Yes,53,High,4,45,70,70,45,70,Investment,Medium,High Value
+C0060,54,Male,Salaried,99341,Bangalore,367920,734,Yes,Yes,Yes,Yes,43,High,4,70,70,70,70,70,Credit Card,Medium,Medium Value
+C0061,30,Female,Business,81085,Delhi,170531,697,No,No,Yes,No,16,Low,1,55,45,80,55,80,Insurance,High,Medium Value
+C0062,56,Male,Business,105571,Hyderabad,406952,695,No,No,Yes,Yes,8,Low,2,55,70,50,55,70,Investment,Medium,High Value
+C0063,34,Male,Salaried,44715,Bangalore,192886,657,No,Yes,No,No,36,Medium,1,25,50,55,50,55,Insurance,Medium,Medium Value
+C0064,51,Male,Business,178308,Chennai,290151,717,Yes,Yes,Yes,Yes,63,Medium,4,70,70,70,45,70,Credit Card,Medium,Medium Value
+C0065,35,Female,Salaried,35750,Pune,126751,700,No,No,No,No,14,Low,0,55,50,55,30,55,Credit Card,Medium,Emerging
+C0066,28,Male,Student,25627,Chennai,65207,656,No,Yes,No,No,24,Low,1,0,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0067,34,Female,Salaried,108768,Pune,499823,684,No,No,No,Yes,69,High,1,75,100,50,75,100,Investment,High,High Value
+C0068,43,Male,Salaried,148544,Chennai,413050,696,Yes,Yes,Yes,No,66,Medium,3,45,70,100,45,100,Insurance,High,High Value
+C0069,60,Female,Salaried,65903,Mumbai,340997,683,Yes,Yes,Yes,Yes,26,Low,4,25,45,70,25,70,Insurance,Medium,Medium Value
+C0070,41,Female,Salaried,102489,Bangalore,109118,685,No,No,Yes,Yes,45,Medium,2,75,45,50,75,75,Credit Card,Medium,Medium Value
+C0071,36,Female,Self-Employed,126036,Pune,497191,690,No,No,Yes,No,42,Medium,1,75,70,80,75,80,Insurance,High,High Value
+C0072,38,Female,Business,137954,Hyderabad,509059,672,No,No,Yes,Yes,52,High,2,75,70,50,75,75,Credit Card,Medium,High Value
+C0073,44,Male,Business,215386,Bangalore,860471,781,No,Yes,Yes,Yes,83,High,3,70,70,50,100,100,Loan,High,High Value
+C0074,46,Female,Salaried,78225,Hyderabad,154491,679,Yes,No,No,Yes,17,Low,2,55,75,70,25,75,Investment,Medium,Medium Value
+C0075,45,Male,Salaried,117985,Bangalore,332556,671,Yes,No,Yes,Yes,44,Medium,3,75,70,70,45,75,Credit Card,Medium,High Value
+C0076,49,Male,Salaried,113014,Bangalore,444609,693,No,No,Yes,Yes,47,Medium,2,75,70,50,75,75,Credit Card,Medium,High Value
+C0077,35,Male,Business,216251,Chennai,401572,769,Yes,Yes,No,No,88,High,2,70,100,100,70,100,Investment,High,High Value
+C0078,21,Female,Self-Employed,152305,Pune,296797,722,Yes,Yes,Yes,No,63,Medium,3,70,50,75,70,75,Insurance,Medium,Medium Value
+C0079,45,Male,Salaried,142417,Pune,492259,722,Yes,Yes,No,Yes,33,Low,3,50,100,70,70,100,Investment,High,High Value
+C0080,27,Female,Salaried,55338,Bangalore,187169,673,No,No,Yes,Yes,39,Medium,2,55,0,25,75,75,Loan,Medium,Medium Value
+C0081,29,Female,Business,82101,Mumbai,187520,647,Yes,Yes,No,Yes,48,Medium,3,45,55,45,45,55,Investment,Medium,Medium Value
+C0082,44,Female,Self-Employed,37775,Mumbai,50343,692,No,No,Yes,No,12,Low,1,30,20,55,30,55,Insurance,Medium,Emerging
+C0083,21,Female,Business,161497,Hyderabad,343367,674,No,Yes,No,Yes,67,Medium,2,45,80,25,75,80,Investment,High,High Value
+C0084,28,Female,Self-Employed,80619,Hyderabad,328073,699,Yes,Yes,Yes,Yes,27,Low,4,25,50,45,25,50,Investment,Medium,Medium Value
+C0085,44,Female,Salaried,75838,Chennai,279408,701,No,No,Yes,No,39,Low,1,80,70,80,75,80,Credit Card,High,Medium Value
+C0086,31,Female,Salaried,49539,Bangalore,207273,663,Yes,Yes,No,Yes,6,Low,3,25,75,45,0,75,Investment,Medium,Medium Value
+C0087,37,Female,Self-Employed,92124,Hyderabad,484823,701,No,Yes,Yes,Yes,54,Low,3,70,70,50,75,75,Loan,Medium,Medium Value
+C0088,28,Female,Business,115149,Hyderabad,334602,694,No,No,No,No,53,Medium,0,75,80,55,75,80,Investment,High,High Value
+C0089,55,Female,Salaried,56616,Delhi,74724,684,Yes,No,No,Yes,32,Medium,2,55,50,70,45,70,Insurance,Medium,Medium Value
+C0090,55,Male,Business,235639,Bangalore,241719,792,No,No,Yes,No,86,High,1,100,70,80,100,100,Credit Card,High,Medium Value
+C0091,53,Male,Self-Employed,96799,Chennai,209145,669,No,No,Yes,Yes,15,Low,2,55,70,50,55,70,Investment,Medium,Medium Value
+C0092,25,Male,Business,140221,Hyderabad,686255,735,No,Yes,Yes,No,65,Medium,2,70,50,55,100,100,Loan,High,High Value
+C0093,59,Male,Business,164879,Chennai,521057,778,No,No,Yes,No,41,Low,1,100,70,80,100,100,Credit Card,High,High Value
+C0094,48,Female,Salaried,55479,Pune,72680,680,Yes,No,No,No,34,Low,1,55,50,100,45,100,Insurance,High,Medium Value
+C0095,27,Female,Business,227244,Chennai,581083,743,No,Yes,Yes,Yes,73,High,3,70,50,25,100,100,Loan,High,High Value
+C0096,29,Female,Business,149165,Mumbai,540960,787,Yes,No,No,No,32,Medium,1,80,80,75,70,80,Credit Card,High,High Value
+C0097,28,Male,Self-Employed,90863,Mumbai,325166,693,Yes,No,Yes,Yes,34,Low,3,55,50,45,45,55,Credit Card,Medium,Medium Value
+C0098,32,Female,Self-Employed,117569,Chennai,196401,710,Yes,Yes,No,Yes,61,High,3,70,75,70,45,75,Investment,Medium,Medium Value
+C0099,54,Female,Self-Employed,51351,Mumbai,284417,678,Yes,No,No,Yes,5,Low,2,55,75,70,25,75,Investment,Medium,Medium Value
+C0100,53,Female,Salaried,34131,Pune,105413,675,No,No,No,Yes,36,Low,1,30,50,25,50,50,Investment,Medium,Emerging
+C0101,43,Female,Business,94825,Bangalore,162112,682,No,Yes,Yes,Yes,45,Low,3,45,45,50,75,75,Loan,Medium,Medium Value
+C0102,44,Female,Self-Employed,46349,Mumbai,220253,673,No,Yes,No,Yes,19,Low,2,25,75,25,30,75,Investment,Medium,Medium Value
+C0103,57,Male,Business,242003,Mumbai,326756,794,Yes,Yes,Yes,Yes,84,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0104,55,Female,Self-Employed,79254,Chennai,374604,673,No,Yes,Yes,No,24,Low,2,25,70,80,55,80,Insurance,High,Medium Value
+C0105,60,Male,Self-Employed,73225,Pune,354166,668,No,Yes,Yes,Yes,33,Medium,3,25,70,50,75,75,Loan,Medium,Medium Value
+C0106,42,Male,Salaried,134383,Bangalore,501931,703,Yes,No,No,Yes,63,Low,2,100,100,70,45,100,Credit Card,High,High Value
+C0107,47,Female,Business,62453,Chennai,237828,643,Yes,No,No,No,14,Low,1,55,75,100,25,100,Insurance,High,Medium Value
+C0108,55,Male,Salaried,48814,Chennai,81880,648,No,No,No,No,6,Low,0,55,50,55,30,55,Credit Card,Medium,Emerging
+C0109,21,Female,Salaried,48263,Delhi,254926,647,No,No,Yes,No,14,Low,1,55,25,30,30,55,Credit Card,Medium,Medium Value
+C0110,55,Male,Business,127694,Pune,398460,708,No,No,No,No,68,Medium,0,100,100,80,75,100,Credit Card,High,High Value
+C0111,57,Female,Self-Employed,50735,Bangalore,223249,695,No,No,No,Yes,5,Low,1,55,75,50,55,75,Investment,Medium,Medium Value
+C0112,34,Male,Salaried,45830,Pune,246544,711,No,Yes,Yes,No,34,Low,2,50,45,55,50,55,Insurance,Medium,Medium Value
+C0113,23,Female,Salaried,77893,Bangalore,382800,685,Yes,No,Yes,No,29,Medium,2,55,50,75,25,75,Insurance,Medium,Medium Value
+C0114,21,Female,Business,225745,Pune,951842,771,No,Yes,No,No,59,Medium,1,70,80,55,100,100,Loan,High,High Value
+C0115,25,Male,Salaried,119462,Chennai,260334,712,Yes,Yes,No,No,37,Low,2,50,80,75,45,80,Investment,High,Medium Value
+C0116,46,Female,Salaried,75066,Chennai,351862,619,No,Yes,Yes,Yes,37,Low,3,25,70,50,75,75,Loan,Medium,Medium Value
+C0117,34,Female,Salaried,130315,Hyderabad,418125,675,No,No,No,No,75,High,0,75,100,80,75,100,Investment,High,High Value
+C0118,59,Male,Salaried,33373,Mumbai,147571,684,No,Yes,No,Yes,5,Low,2,0,50,25,30,50,Investment,Medium,Emerging
+C0119,47,Male,Salaried,40335,Delhi,147987,690,No,Yes,No,No,5,Low,1,25,50,55,30,55,Insurance,Medium,Emerging
+C0120,29,Male,Salaried,53741,Pune,106919,696,No,No,No,No,5,Low,0,55,30,55,55,55,Credit Card,Medium,Medium Value
+C0121,35,Male,Salaried,40692,Delhi,85489,659,No,No,No,No,32,Low,0,55,50,55,50,55,Credit Card,Medium,Emerging
+C0122,35,Female,Self-Employed,80541,Hyderabad,232332,625,No,No,No,No,5,Low,0,55,100,80,55,100,Investment,High,Medium Value
+C0123,46,Female,Business,215129,Mumbai,898867,721,No,Yes,Yes,No,103,High,2,70,70,80,100,100,Loan,High,High Value
+C0124,33,Male,Business,116983,Pune,303162,677,No,Yes,Yes,No,62,Medium,2,45,70,80,75,80,Insurance,High,High Value
+C0125,52,Male,Salaried,49583,Bangalore,190134,688,Yes,No,No,Yes,21,Low,2,55,50,45,0,55,Credit Card,Medium,Medium Value
+C0126,59,Female,Salaried,52765,Mumbai,138785,660,No,Yes,No,No,10,Low,1,25,50,80,55,80,Insurance,High,Medium Value
+C0127,52,Male,Business,240359,Chennai,1038177,816,No,Yes,Yes,No,91,High,2,70,70,80,100,100,Loan,High,High Value
+C0128,24,Male,Salaried,53906,Hyderabad,151890,715,Yes,Yes,No,Yes,29,Medium,3,50,30,45,25,50,Credit Card,Medium,Medium Value
+C0129,50,Female,Salaried,115103,Mumbai,114336,752,No,No,Yes,No,50,Medium,1,100,45,80,100,100,Credit Card,High,Medium Value
+C0130,57,Female,Business,227597,Mumbai,371380,731,No,Yes,Yes,No,111,High,2,70,70,80,100,100,Loan,High,High Value
+C0131,43,Female,Business,219302,Chennai,253517,769,No,Yes,No,No,78,High,1,70,100,80,100,100,Investment,High,Medium Value
+C0132,59,Female,Salaried,147904,Pune,446393,704,Yes,No,Yes,Yes,36,Medium,3,80,70,70,45,80,Credit Card,High,High Value
+C0133,35,Male,Salaried,49520,Bangalore,95247,679,No,Yes,No,No,5,Low,1,25,50,55,30,55,Insurance,Medium,Emerging
+C0134,49,Female,Business,233006,Chennai,378855,737,No,Yes,No,No,62,Medium,1,70,100,80,100,100,Investment,High,High Value
+C0135,56,Male,Salaried,55566,Bangalore,266019,709,Yes,No,No,Yes,23,Low,2,80,75,70,25,80,Credit Card,High,Medium Value
+C0136,33,Male,Business,123193,Pune,519869,683,Yes,Yes,Yes,No,42,Medium,3,45,70,100,45,100,Insurance,High,High Value
+C0137,52,Male,Business,211206,Mumbai,594393,692,Yes,Yes,No,Yes,79,High,3,45,100,70,45,100,Investment,High,High Value
+C0138,27,Male,Student,20345,Bangalore,102366,716,No,No,No,No,5,Low,0,55,30,30,30,55,Credit Card,Medium,Emerging
+C0139,42,Female,Salaried,71185,Hyderabad,84814,693,No,Yes,Yes,No,10,Low,2,25,45,80,55,80,Insurance,High,Medium Value
+C0140,48,Male,Self-Employed,165956,Hyderabad,573146,696,Yes,Yes,Yes,No,71,High,3,45,70,100,45,100,Insurance,High,High Value
+C0141,22,Male,Business,120744,Chennai,419794,700,Yes,No,Yes,No,8,Low,2,80,50,75,25,80,Credit Card,High,High Value
+C0142,26,Male,Salaried,63455,Pune,166921,659,Yes,No,No,Yes,11,Low,2,55,30,45,25,55,Credit Card,Medium,Medium Value
+C0143,48,Male,Salaried,145217,Chennai,369553,717,No,Yes,No,Yes,66,Medium,2,70,100,50,75,100,Investment,High,High Value
+C0144,48,Female,Business,209090,Chennai,600218,773,Yes,Yes,No,No,64,Medium,2,70,100,100,70,100,Investment,High,High Value
+C0145,40,Male,Salaried,84219,Delhi,183839,706,Yes,No,Yes,Yes,37,Medium,3,80,45,70,45,80,Credit Card,High,Medium Value
+C0146,50,Female,Salaried,75991,Chennai,291688,690,Yes,No,Yes,Yes,16,Low,3,55,70,70,25,70,Investment,Medium,Medium Value
+C0147,31,Male,Salaried,103616,Delhi,173473,697,No,No,No,Yes,32,Low,1,55,75,50,75,75,Investment,Medium,Medium Value
+C0148,48,Female,Self-Employed,122438,Hyderabad,252046,738,Yes,No,Yes,Yes,54,High,3,100,70,70,70,100,Credit Card,High,Medium Value
+C0149,45,Female,Self-Employed,151841,Hyderabad,253514,663,Yes,No,No,No,37,Low,1,55,100,100,45,100,Investment,High,Medium Value
+C0150,59,Male,Business,190558,Chennai,414328,718,No,Yes,No,No,82,High,1,70,100,80,75,100,Investment,High,High Value
+C0151,53,Female,Salaried,68862,Hyderabad,247343,650,Yes,Yes,No,Yes,26,Low,3,25,75,70,25,75,Investment,Medium,Medium Value
+C0152,21,Male,Salaried,88870,Pune,120694,719,Yes,Yes,No,Yes,52,Medium,3,70,55,45,45,70,Credit Card,Medium,Medium Value
+C0153,47,Male,Business,136694,Delhi,600223,691,No,No,Yes,Yes,54,Medium,2,75,70,50,75,75,Credit Card,Medium,High Value
+C0154,33,Female,Salaried,135996,Delhi,294114,674,No,No,Yes,Yes,35,Medium,2,55,70,50,75,75,Loan,Medium,Medium Value
+C0155,23,Male,Salaried,73856,Chennai,120234,698,No,No,No,Yes,53,High,1,75,55,25,75,75,Credit Card,Medium,Medium Value
+C0156,59,Male,Business,151407,Hyderabad,582398,693,Yes,Yes,Yes,Yes,42,Low,4,45,70,70,45,70,Investment,Medium,High Value
+C0157,26,Female,Student,12440,Bangalore,5000,640,No,No,No,No,5,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0158,28,Male,Business,81379,Delhi,313949,757,Yes,No,No,No,44,Medium,1,100,80,75,70,100,Credit Card,High,Medium Value
+C0159,47,Female,Business,114729,Chennai,419128,726,No,No,No,Yes,14,Low,1,80,100,50,80,100,Investment,High,High Value
+C0160,29,Male,Student,17124,Chennai,6556,647,No,Yes,No,No,28,Low,1,0,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0161,57,Female,Salaried,84353,Pune,108987,683,No,No,Yes,No,14,Low,1,55,45,80,55,80,Insurance,High,Medium Value
+C0162,53,Female,Business,231068,Mumbai,591786,788,No,Yes,Yes,Yes,79,High,3,70,70,50,100,100,Loan,High,High Value
+C0163,44,Female,Student,24031,Mumbai,37081,676,No,No,Yes,Yes,13,Low,2,30,20,25,30,30,No Immediate Opportunity,Low,Emerging
+C0164,35,Female,Salaried,110072,Delhi,170057,702,Yes,No,Yes,Yes,40,Medium,3,100,45,70,45,100,Credit Card,High,Medium Value
+C0165,52,Male,Business,115982,Pune,273026,706,No,Yes,Yes,Yes,55,High,3,70,70,50,75,75,Loan,Medium,Medium Value
+C0166,52,Female,Business,86683,Pune,214024,643,Yes,No,No,No,8,Low,1,55,100,100,25,100,Investment,High,Medium Value
+C0167,44,Male,Business,164091,Pune,512562,676,No,Yes,Yes,No,72,Medium,2,45,70,80,75,80,Insurance,High,High Value
+C0168,32,Male,Business,167797,Delhi,614502,723,Yes,No,Yes,Yes,75,High,3,100,70,70,70,100,Credit Card,High,High Value
+C0169,59,Male,Self-Employed,41587,Mumbai,162094,646,No,Yes,Yes,No,31,Medium,2,25,20,55,50,55,Insurance,Medium,Medium Value
+C0170,22,Male,Self-Employed,97790,Pune,172408,711,Yes,No,Yes,No,12,Low,2,80,25,75,25,80,Credit Card,High,Medium Value
+C0171,23,Male,Salaried,61480,Hyderabad,112170,681,Yes,No,Yes,Yes,5,Low,3,55,0,45,25,55,Credit Card,Medium,Medium Value
+C0172,57,Female,Self-Employed,58569,Chennai,257903,651,Yes,Yes,Yes,Yes,16,Low,4,25,45,70,25,70,Insurance,Medium,Medium Value
+C0173,37,Female,Salaried,41151,Chennai,131530,670,Yes,No,No,No,5,Low,1,55,50,75,0,75,Insurance,Medium,Emerging
+C0174,22,Female,Salaried,101094,Bangalore,449925,683,No,No,No,No,10,Low,0,55,80,55,55,80,Investment,High,High Value
+C0175,22,Male,Salaried,89174,Bangalore,215495,751,No,Yes,Yes,No,27,Medium,2,50,50,55,80,80,Loan,High,Medium Value
+C0176,48,Female,Salaried,74739,Delhi,246394,693,No,No,Yes,No,31,Medium,1,55,70,80,75,80,Insurance,High,Medium Value
+C0177,43,Male,Salaried,62954,Delhi,200124,629,Yes,No,Yes,Yes,65,Medium,3,75,45,70,45,75,Credit Card,Medium,Medium Value
+C0178,57,Male,Self-Employed,144373,Chennai,315737,771,Yes,No,No,Yes,62,High,2,100,100,70,70,100,Credit Card,High,High Value
+C0179,52,Male,Business,216375,Hyderabad,626634,734,No,No,Yes,Yes,107,High,2,100,70,50,100,100,Credit Card,High,High Value
+C0180,53,Male,Business,84700,Mumbai,212946,658,No,No,No,Yes,31,Low,1,55,100,50,75,100,Investment,High,Medium Value
+C0181,21,Female,Salaried,123036,Mumbai,209846,770,Yes,Yes,No,No,54,Medium,2,70,80,75,70,80,Investment,High,Medium Value
+C0182,39,Female,Self-Employed,158728,Delhi,380698,734,No,No,No,No,57,Medium,0,100,100,80,100,100,Credit Card,High,High Value
+C0183,22,Male,Self-Employed,101788,Hyderabad,406003,716,No,Yes,Yes,No,78,High,2,70,50,55,75,75,Loan,Medium,High Value
+C0184,46,Male,Self-Employed,106045,Delhi,506346,720,No,Yes,Yes,No,29,Low,2,50,70,80,80,80,Insurance,High,High Value
+C0185,52,Male,Salaried,67842,Mumbai,149132,672,Yes,No,Yes,Yes,17,Low,3,55,20,70,25,70,Insurance,Medium,Medium Value
+C0186,26,Male,Salaried,43900,Delhi,113320,649,Yes,No,Yes,Yes,28,Medium,3,55,0,20,0,55,Credit Card,Medium,Emerging
+C0187,52,Female,Salaried,110059,Pune,190049,687,No,No,Yes,Yes,44,Medium,2,75,45,50,75,75,Credit Card,Medium,Medium Value
+C0188,24,Male,Salaried,31881,Delhi,111671,709,No,No,No,No,5,Low,0,55,30,30,30,55,Credit Card,Medium,Emerging
+C0189,31,Male,Salaried,63037,Chennai,145592,682,Yes,Yes,No,Yes,38,Low,3,25,50,70,45,70,Insurance,Medium,Medium Value
+C0190,37,Male,Self-Employed,167702,Delhi,803423,768,Yes,No,Yes,No,62,Medium,2,100,70,100,70,100,Credit Card,High,High Value
+C0191,58,Female,Salaried,50789,Chennai,136395,668,No,No,No,No,18,Low,0,55,50,80,55,80,Insurance,High,Medium Value
+C0192,44,Female,Salaried,118059,Hyderabad,330252,681,No,No,No,Yes,47,Low,1,75,100,50,75,100,Investment,High,High Value
+C0193,25,Female,Salaried,113494,Mumbai,380192,658,Yes,Yes,Yes,Yes,16,Low,4,25,50,45,25,50,Investment,Medium,High Value
+C0194,54,Female,Salaried,76151,Bangalore,330831,702,No,Yes,Yes,No,5,Low,2,50,70,80,55,80,Insurance,High,Medium Value
+C0195,26,Male,Salaried,78920,Bangalore,242715,735,No,No,Yes,Yes,45,Low,2,100,50,25,100,100,Credit Card,High,Medium Value
+C0196,42,Male,Salaried,139388,Mumbai,373215,688,No,No,No,No,42,Medium,0,75,100,80,75,100,Investment,High,High Value
+C0197,31,Female,Salaried,97231,Bangalore,462293,709,Yes,Yes,Yes,Yes,34,Low,4,50,70,70,45,70,Investment,Medium,Medium Value
+C0198,36,Female,Self-Employed,38262,Delhi,71749,622,No,Yes,No,Yes,38,Medium,2,0,50,25,50,50,Investment,Medium,Emerging
+C0199,53,Female,Student,11445,Hyderabad,44570,633,No,No,No,No,5,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0200,29,Female,Salaried,111972,Hyderabad,166587,709,Yes,Yes,Yes,Yes,38,Low,4,50,25,45,45,50,Credit Card,Medium,Medium Value
+C0201,26,Female,Salaried,105485,Mumbai,469874,645,No,Yes,Yes,No,53,Medium,2,45,50,55,75,75,Loan,Medium,High Value
+C0202,36,Female,Self-Employed,89722,Bangalore,323691,689,Yes,No,Yes,Yes,24,Low,3,55,70,70,25,70,Investment,Medium,Medium Value
+C0203,49,Female,Salaried,119499,Delhi,288049,679,Yes,No,Yes,No,62,High,2,75,70,100,45,100,Insurance,High,Medium Value
+C0204,23,Female,Salaried,80818,Hyderabad,343902,703,Yes,Yes,Yes,No,43,Medium,3,70,50,75,45,75,Insurance,Medium,Medium Value
+C0205,40,Female,Self-Employed,41901,Hyderabad,60120,660,No,No,No,No,43,Medium,0,75,50,55,50,75,Credit Card,Medium,Emerging
+C0206,56,Female,Salaried,147473,Pune,339126,747,Yes,Yes,Yes,Yes,45,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0207,39,Male,Business,58597,Pune,209080,665,No,Yes,No,No,42,Medium,1,45,75,80,75,80,Insurance,High,Medium Value
+C0208,46,Female,Business,179631,Hyderabad,442144,694,Yes,Yes,No,Yes,75,High,3,45,100,70,45,100,Investment,High,High Value
+C0209,23,Male,Salaried,93909,Mumbai,337610,647,No,No,No,No,15,Low,0,55,80,55,55,80,Investment,High,Medium Value
+C0210,39,Female,Salaried,102391,Chennai,105703,638,No,Yes,No,No,5,Low,1,25,75,80,55,80,Insurance,High,Medium Value
+C0211,40,Female,Self-Employed,174335,Chennai,248793,751,Yes,Yes,Yes,Yes,53,Medium,4,70,70,70,70,70,Credit Card,Medium,Medium Value
+C0212,52,Female,Salaried,93293,Delhi,133712,768,Yes,Yes,Yes,No,39,Low,3,50,45,100,70,100,Insurance,High,Medium Value
+C0213,27,Male,Salaried,142824,Hyderabad,239461,729,No,Yes,No,Yes,60,Medium,2,70,80,25,100,100,Loan,High,Medium Value
+C0214,53,Male,Business,206877,Hyderabad,579928,798,No,Yes,No,No,76,High,1,70,100,80,100,100,Investment,High,High Value
+C0215,60,Male,Business,61874,Hyderabad,240880,709,Yes,No,No,Yes,22,Low,2,80,75,70,25,80,Credit Card,High,Medium Value
+C0216,59,Female,Salaried,123065,Mumbai,563931,691,Yes,No,Yes,No,44,Low,2,75,70,100,45,100,Insurance,High,High Value
+C0217,38,Male,Self-Employed,121402,Pune,521612,743,No,No,Yes,No,61,High,1,100,70,80,100,100,Credit Card,High,High Value
+C0218,60,Male,Salaried,44079,Hyderabad,83653,652,Yes,No,Yes,Yes,5,Low,3,55,20,45,0,55,Credit Card,Medium,Emerging
+C0219,21,Male,Self-Employed,107779,Hyderabad,299541,685,No,Yes,No,No,44,Medium,1,45,80,55,75,80,Investment,High,Medium Value
+C0220,31,Female,Self-Employed,130408,Bangalore,237774,704,No,No,Yes,No,36,Medium,1,80,70,80,75,80,Credit Card,High,Medium Value
+C0221,48,Female,Business,190090,Mumbai,421629,735,Yes,Yes,Yes,Yes,57,Medium,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0222,45,Male,Salaried,79500,Delhi,241162,704,Yes,No,Yes,Yes,47,Low,3,100,70,70,45,100,Credit Card,High,Medium Value
+C0223,43,Male,Student,22100,Hyderabad,72338,635,Yes,No,No,Yes,5,Low,2,30,50,45,0,50,Investment,Medium,Emerging
+C0224,51,Male,Salaried,87021,Bangalore,170017,715,No,Yes,Yes,No,30,Low,2,50,45,80,75,80,Insurance,High,Medium Value
+C0225,50,Female,Business,200872,Chennai,943491,771,Yes,Yes,No,No,104,Medium,2,70,100,100,70,100,Investment,High,High Value
+C0226,55,Female,Salaried,93400,Delhi,294532,702,Yes,No,No,No,47,Medium,1,100,100,100,45,100,Credit Card,High,Medium Value
+C0227,27,Male,Salaried,122446,Hyderabad,338998,764,No,No,No,No,39,Low,0,80,80,55,100,100,Loan,High,High Value
+C0228,36,Female,Salaried,59437,Hyderabad,15026,713,Yes,No,No,No,16,Low,1,80,50,100,25,100,Insurance,High,Medium Value
+C0229,46,Male,Self-Employed,55862,Bangalore,111062,704,Yes,No,No,Yes,5,Low,2,80,50,70,25,80,Credit Card,High,Medium Value
+C0230,22,Female,Student,21669,Mumbai,91772,657,No,No,No,No,27,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0231,21,Male,Salaried,83772,Hyderabad,171067,697,No,No,No,No,46,Medium,0,75,55,55,75,75,Credit Card,Medium,Medium Value
+C0232,32,Male,Salaried,45916,Chennai,104208,683,No,No,No,No,27,Low,0,55,50,55,30,55,Credit Card,Medium,Emerging
+C0233,25,Male,Business,60878,Hyderabad,57714,675,No,No,No,No,34,Low,0,55,30,55,75,75,Loan,Medium,Medium Value
+C0234,57,Female,Salaried,32985,Chennai,121449,650,No,Yes,No,No,5,Low,1,0,50,55,30,55,Insurance,Medium,Emerging
+C0235,52,Female,Salaried,127905,Delhi,146547,636,Yes,No,No,No,24,Medium,1,55,75,100,25,100,Insurance,High,Medium Value
+C0236,29,Male,Business,91235,Delhi,386914,712,Yes,Yes,Yes,Yes,42,Medium,4,70,50,45,45,70,Credit Card,Medium,Medium Value
+C0237,55,Female,Business,68931,Pune,281233,710,No,No,Yes,No,39,Low,1,80,45,80,75,80,Credit Card,High,Medium Value
+C0238,39,Female,Student,10336,Pune,49939,615,No,No,No,No,27,Medium,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0239,36,Male,Salaried,72933,Chennai,155013,699,No,No,No,Yes,24,Low,1,55,75,50,55,75,Investment,Medium,Medium Value
+C0240,23,Male,Salaried,114899,Mumbai,484333,684,No,No,No,No,37,Low,0,55,80,55,75,80,Investment,High,High Value
+C0241,40,Female,Business,95536,Hyderabad,288722,681,Yes,No,Yes,No,32,Medium,2,55,70,100,45,100,Insurance,High,Medium Value
+C0242,44,Male,Self-Employed,104504,Hyderabad,244472,736,No,Yes,Yes,Yes,49,Medium,3,70,70,50,100,100,Loan,High,Medium Value
+C0243,53,Male,Business,149214,Pune,502594,690,Yes,No,Yes,Yes,51,Low,3,75,70,70,45,75,Credit Card,Medium,High Value
+C0244,44,Female,Business,232220,Chennai,262364,731,No,Yes,Yes,No,86,High,2,70,70,80,100,100,Loan,High,Medium Value
+C0245,31,Male,Salaried,143936,Hyderabad,242232,771,No,Yes,Yes,No,66,High,2,70,70,80,100,100,Loan,High,Medium Value
+C0246,28,Male,Self-Employed,51279,Hyderabad,222248,666,Yes,No,No,No,9,Low,1,55,55,75,25,75,Insurance,Medium,Medium Value
+C0247,56,Male,Salaried,98665,Mumbai,195115,731,Yes,No,Yes,Yes,57,Medium,3,100,45,70,70,100,Credit Card,High,Medium Value
+C0248,58,Female,Salaried,133751,Bangalore,448835,664,No,Yes,Yes,No,59,Low,2,45,70,80,75,80,Insurance,High,High Value
+C0249,60,Male,Business,154433,Pune,387835,676,No,No,Yes,No,30,Low,1,55,70,80,75,80,Insurance,High,High Value
+C0250,40,Male,Salaried,101386,Pune,468469,668,No,Yes,Yes,No,30,Medium,2,25,70,80,75,80,Insurance,High,High Value
+C0251,55,Male,Salaried,116124,Bangalore,522114,688,Yes,No,Yes,No,13,Low,2,55,70,100,25,100,Insurance,High,High Value
+C0252,45,Male,Self-Employed,140750,Hyderabad,627907,673,Yes,No,Yes,Yes,49,Medium,3,75,70,70,45,75,Credit Card,Medium,High Value
+C0253,55,Male,Salaried,107485,Mumbai,206088,709,Yes,Yes,Yes,Yes,32,Low,4,50,70,70,45,70,Investment,Medium,Medium Value
+C0254,45,Male,Business,124055,Mumbai,247600,720,No,No,Yes,No,59,Medium,1,100,70,80,100,100,Credit Card,High,Medium Value
+C0255,49,Female,Salaried,121911,Pune,343717,679,Yes,No,No,Yes,32,Low,2,55,100,70,45,100,Investment,High,High Value
+C0256,38,Male,Self-Employed,133618,Mumbai,104818,687,Yes,No,No,No,55,Medium,1,75,75,100,45,100,Insurance,High,Medium Value
+C0257,38,Male,Salaried,107273,Delhi,122816,678,No,Yes,No,Yes,48,Low,2,45,75,50,75,75,Investment,Medium,Medium Value
+C0258,22,Male,Salaried,96670,Bangalore,303214,658,No,Yes,Yes,Yes,40,Medium,3,45,50,25,75,75,Loan,Medium,Medium Value
+C0259,55,Male,Student,20938,Hyderabad,53388,568,No,No,No,Yes,24,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0260,36,Male,Self-Employed,148892,Delhi,728032,717,Yes,Yes,No,No,86,High,2,70,100,100,45,100,Investment,High,High Value
+C0261,56,Female,Salaried,121632,Bangalore,205844,692,No,No,Yes,Yes,47,Low,2,75,70,50,75,75,Credit Card,Medium,Medium Value
+C0262,53,Male,Salaried,136651,Chennai,291902,703,Yes,No,Yes,No,57,Medium,2,100,70,100,45,100,Credit Card,High,Medium Value
+C0263,24,Male,Self-Employed,106128,Pune,158803,667,Yes,Yes,No,Yes,26,Low,3,25,55,45,25,55,Investment,Medium,Medium Value
+C0264,53,Male,Business,199180,Mumbai,926245,769,Yes,Yes,Yes,No,59,Low,3,70,70,100,70,100,Insurance,High,High Value
+C0265,34,Female,Self-Employed,87495,Chennai,337748,761,No,Yes,Yes,Yes,48,Low,3,70,70,50,100,100,Loan,High,Medium Value
+C0266,41,Female,Self-Employed,117806,Mumbai,501934,678,No,No,Yes,Yes,57,Medium,2,75,70,50,75,75,Credit Card,Medium,High Value
+C0267,40,Female,Salaried,123185,Delhi,573225,748,Yes,Yes,No,No,30,Medium,2,50,100,100,70,100,Investment,High,High Value
+C0268,28,Male,Salaried,106533,Hyderabad,336182,709,Yes,No,No,No,20,Low,1,80,80,75,25,80,Credit Card,High,High Value
+C0269,27,Female,Business,237902,Hyderabad,670478,765,No,Yes,Yes,Yes,79,High,3,70,50,25,100,100,Loan,High,High Value
+C0270,23,Male,Salaried,104640,Hyderabad,224476,687,No,No,Yes,No,37,Low,1,55,50,55,75,75,Loan,Medium,Medium Value
+C0271,37,Male,Salaried,82509,Mumbai,228907,683,No,Yes,Yes,Yes,24,Low,3,25,70,50,55,70,Investment,Medium,Medium Value
+C0272,53,Male,Self-Employed,84649,Chennai,274458,721,No,No,Yes,Yes,34,Low,2,80,70,50,100,100,Loan,High,Medium Value
+C0273,32,Male,Business,215596,Hyderabad,578826,718,No,No,Yes,Yes,94,High,2,100,70,50,75,100,Credit Card,High,High Value
+C0274,42,Female,Self-Employed,130402,Chennai,579811,702,No,No,Yes,Yes,55,Medium,2,100,70,50,75,100,Credit Card,High,High Value
+C0275,42,Female,Business,80676,Mumbai,400837,722,Yes,Yes,Yes,Yes,38,Low,4,50,70,70,70,70,Investment,Medium,Medium Value
+C0276,50,Male,Business,114093,Delhi,443415,731,Yes,Yes,No,Yes,6,Low,3,50,100,70,50,100,Investment,High,High Value
+C0277,58,Female,Salaried,77764,Chennai,297062,650,Yes,No,Yes,No,5,Low,2,55,70,100,25,100,Insurance,High,Medium Value
+C0278,58,Female,Salaried,80799,Delhi,311729,679,No,Yes,Yes,Yes,18,Medium,3,25,70,50,55,70,Investment,Medium,Medium Value
+C0279,28,Female,Salaried,109414,Mumbai,217551,721,No,Yes,Yes,No,31,Low,2,50,50,55,100,100,Loan,High,Medium Value
+C0280,47,Female,Salaried,135296,Mumbai,175033,732,No,Yes,No,Yes,63,Medium,2,70,75,50,100,100,Loan,High,Medium Value
+C0281,47,Female,Self-Employed,128095,Pune,473226,738,Yes,No,Yes,Yes,34,Medium,3,80,70,70,70,80,Credit Card,High,High Value
+C0282,54,Female,Salaried,142082,Mumbai,555243,727,Yes,Yes,Yes,Yes,63,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0283,41,Female,Salaried,102307,Mumbai,85357,712,Yes,No,Yes,No,26,Low,2,80,45,100,25,100,Insurance,High,Medium Value
+C0284,50,Male,Salaried,112062,Bangalore,519044,711,Yes,No,Yes,Yes,24,Low,3,80,70,70,25,80,Credit Card,High,High Value
+C0285,53,Male,Salaried,125432,Hyderabad,162164,755,No,Yes,No,No,29,Low,1,50,75,80,80,80,Insurance,High,Medium Value
+C0286,48,Female,Salaried,61923,Pune,135804,663,No,No,Yes,Yes,57,Medium,2,75,20,50,75,75,Credit Card,Medium,Medium Value
+C0287,53,Male,Salaried,147449,Pune,582865,720,Yes,No,Yes,No,43,Medium,2,100,70,100,70,100,Credit Card,High,High Value
+C0288,25,Female,Salaried,131739,Pune,182518,680,Yes,No,No,No,59,High,1,75,55,75,45,75,Credit Card,Medium,Medium Value
+C0289,39,Male,Salaried,134926,Bangalore,156680,676,No,Yes,No,Yes,27,Low,2,25,75,50,55,75,Investment,Medium,Medium Value
+C0290,24,Male,Salaried,108388,Delhi,215287,708,Yes,Yes,Yes,Yes,61,High,4,70,50,45,45,70,Credit Card,Medium,Medium Value
+C0291,55,Male,Self-Employed,82574,Mumbai,325504,664,No,No,Yes,Yes,36,Medium,2,55,70,50,75,75,Loan,Medium,Medium Value
+C0292,37,Male,Salaried,73391,Hyderabad,177540,679,Yes,No,No,Yes,31,Low,2,55,75,70,45,75,Investment,Medium,Medium Value
+C0293,48,Female,Salaried,83664,Chennai,272298,735,Yes,No,Yes,Yes,37,Medium,3,80,70,70,70,80,Credit Card,High,Medium Value
+C0294,50,Female,Business,117384,Delhi,407797,750,Yes,Yes,Yes,No,51,Medium,3,70,70,100,70,100,Insurance,High,High Value
+C0295,49,Female,Salaried,61027,Mumbai,71563,742,Yes,Yes,Yes,Yes,35,Low,4,50,20,70,70,70,Insurance,Medium,Medium Value
+C0296,26,Female,Self-Employed,69485,Bangalore,360156,728,No,Yes,No,No,17,Medium,1,50,55,55,80,80,Loan,High,Medium Value
+C0297,55,Male,Business,200528,Mumbai,223124,817,Yes,Yes,No,Yes,65,High,3,70,100,70,70,100,Investment,High,Medium Value
+C0298,57,Male,Salaried,104795,Mumbai,509064,710,Yes,Yes,No,Yes,40,Medium,3,70,100,70,45,100,Investment,High,High Value
+C0299,44,Female,Business,85554,Bangalore,305619,660,No,No,No,Yes,42,Medium,1,75,100,50,75,100,Investment,High,Medium Value
+C0300,49,Male,Salaried,76922,Pune,373220,653,Yes,Yes,No,Yes,27,Low,3,25,100,70,25,100,Investment,High,Medium Value
+C0301,51,Male,Business,63409,Pune,108673,718,Yes,No,No,No,35,Low,1,80,50,100,45,100,Insurance,High,Medium Value
+C0302,55,Male,Salaried,99327,Hyderabad,281821,696,No,Yes,No,Yes,46,High,2,45,100,50,75,100,Investment,High,Medium Value
+C0303,53,Male,Self-Employed,71639,Hyderabad,134531,684,No,No,Yes,Yes,23,Low,2,55,45,50,55,55,Credit Card,Medium,Medium Value
+C0304,41,Female,Salaried,130110,Pune,145660,693,No,No,No,Yes,22,Medium,1,55,75,50,55,75,Investment,Medium,Medium Value
+C0305,52,Female,Business,244699,Delhi,811205,754,Yes,Yes,Yes,Yes,84,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0306,43,Male,Business,69692,Chennai,127463,691,Yes,No,No,Yes,52,Medium,2,75,50,70,45,75,Credit Card,Medium,Medium Value
+C0307,53,Female,Salaried,119037,Mumbai,389461,672,Yes,No,No,Yes,49,Low,2,75,100,70,45,100,Investment,High,High Value
+C0308,23,Female,Salaried,108840,Chennai,125263,707,Yes,No,No,No,31,Medium,1,80,55,75,45,80,Credit Card,High,Medium Value
+C0309,38,Male,Business,235272,Mumbai,551530,808,No,No,Yes,Yes,92,High,2,100,70,50,100,100,Credit Card,High,High Value
+C0310,45,Female,Self-Employed,53074,Pune,201140,607,No,Yes,Yes,No,30,Low,2,25,45,80,75,80,Insurance,High,Medium Value
+C0311,51,Female,Salaried,45549,Hyderabad,187030,621,No,No,No,No,7,Low,0,55,50,55,30,55,Credit Card,Medium,Medium Value
+C0312,23,Male,Self-Employed,64963,Delhi,198795,697,Yes,No,No,Yes,42,Low,2,75,30,45,45,75,Credit Card,Medium,Medium Value
+C0313,60,Male,Student,13303,Hyderabad,23497,692,No,No,No,No,12,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0314,44,Male,Self-Employed,87265,Chennai,399177,673,No,No,Yes,Yes,16,Low,2,55,70,50,55,70,Investment,Medium,Medium Value
+C0315,52,Male,Salaried,46061,Hyderabad,103265,607,No,No,No,No,30,Low,0,55,50,55,50,55,Credit Card,Medium,Emerging
+C0316,42,Male,Business,239298,Pune,914155,807,Yes,No,Yes,Yes,83,High,3,100,70,70,70,100,Credit Card,High,High Value
+C0317,43,Female,Salaried,58810,Delhi,292628,650,No,No,No,Yes,19,Low,1,55,75,50,55,75,Investment,Medium,Medium Value
+C0318,22,Male,Student,25198,Chennai,87154,646,No,Yes,No,No,5,Low,1,0,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0319,47,Male,Salaried,52800,Delhi,128678,680,No,No,No,Yes,29,Medium,1,55,50,50,55,55,Credit Card,Medium,Medium Value
+C0320,22,Female,Salaried,146192,Mumbai,536437,698,Yes,Yes,Yes,No,52,Medium,3,45,50,75,45,75,Insurance,Medium,High Value
+C0321,46,Female,Business,157228,Hyderabad,596654,697,No,Yes,Yes,No,69,Medium,2,45,70,80,75,80,Insurance,High,High Value
+C0322,37,Male,Salaried,105476,Delhi,374975,672,Yes,No,Yes,Yes,31,Medium,3,55,70,70,45,70,Investment,Medium,High Value
+C0323,60,Male,Student,13924,Bangalore,33232,707,No,No,Yes,Yes,5,Low,2,55,20,25,30,55,Credit Card,Medium,Emerging
+C0324,53,Male,Student,19783,Hyderabad,32657,689,Yes,No,No,Yes,5,Low,2,30,50,45,0,50,Investment,Medium,Emerging
+C0325,29,Female,Business,226469,Mumbai,954569,775,No,Yes,Yes,Yes,90,High,3,70,50,25,100,100,Loan,High,High Value
+C0326,59,Male,Salaried,43233,Delhi,70708,600,No,No,No,Yes,6,Medium,1,55,50,25,30,55,Credit Card,Medium,Emerging
+C0327,49,Male,Business,206140,Chennai,818611,765,Yes,No,Yes,Yes,74,High,3,100,70,70,70,100,Credit Card,High,High Value
+C0328,46,Female,Salaried,95727,Mumbai,177296,708,Yes,No,Yes,No,28,Low,2,80,45,100,25,100,Insurance,High,Medium Value
+C0329,55,Male,Salaried,120610,Bangalore,386702,667,Yes,No,Yes,Yes,51,Medium,3,75,70,70,45,75,Credit Card,Medium,High Value
+C0330,45,Female,Self-Employed,105453,Delhi,136514,705,No,No,No,No,13,Low,0,80,75,80,55,80,Credit Card,High,Medium Value
+C0331,44,Female,Salaried,134135,Pune,226913,743,No,No,Yes,No,54,Medium,1,100,70,80,100,100,Credit Card,High,Medium Value
+C0332,33,Male,Salaried,55832,Hyderabad,274446,689,No,Yes,No,No,46,Medium,1,45,75,80,75,80,Insurance,High,Medium Value
+C0333,27,Female,Student,20160,Chennai,64469,634,No,No,No,Yes,26,Low,1,30,30,0,30,30,No Immediate Opportunity,Low,Emerging
+C0334,56,Male,Salaried,116242,Pune,371269,703,Yes,No,Yes,Yes,34,Low,3,80,70,70,45,80,Credit Card,High,High Value
+C0335,40,Female,Salaried,43682,Delhi,133366,688,No,No,No,No,23,Low,0,55,50,55,30,55,Credit Card,Medium,Emerging
+C0336,21,Female,Self-Employed,93160,Delhi,371306,693,No,Yes,No,No,39,Medium,1,25,80,55,75,80,Investment,High,Medium Value
+C0337,28,Female,Salaried,123332,Mumbai,393721,744,No,Yes,Yes,No,68,High,2,70,50,55,100,100,Loan,High,High Value
+C0338,36,Male,Self-Employed,58666,Delhi,171035,686,No,No,No,No,5,Low,0,55,50,80,55,80,Insurance,High,Medium Value
+C0339,34,Female,Student,22391,Chennai,42737,678,No,No,No,Yes,25,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0340,32,Female,Self-Employed,76830,Pune,278480,708,Yes,Yes,Yes,Yes,24,Low,4,50,70,70,25,70,Investment,Medium,Medium Value
+C0341,43,Male,Business,60234,Chennai,304756,643,No,No,No,Yes,11,Low,1,55,75,50,55,75,Investment,Medium,Medium Value
+C0342,35,Female,Salaried,87616,Bangalore,457518,690,Yes,No,No,Yes,21,Medium,2,55,100,70,25,100,Investment,High,Medium Value
+C0343,48,Male,Salaried,39221,Bangalore,57667,654,No,No,No,No,5,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0344,54,Male,Self-Employed,177482,Hyderabad,680576,765,No,Yes,Yes,No,57,Medium,2,70,70,80,100,100,Loan,High,High Value
+C0345,22,Male,Self-Employed,36051,Hyderabad,129001,676,No,No,No,No,5,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0346,52,Male,Business,160529,Bangalore,469149,719,No,Yes,Yes,No,62,Medium,2,70,70,80,75,80,Insurance,High,High Value
+C0347,43,Male,Salaried,105301,Delhi,155746,659,Yes,No,Yes,Yes,48,Medium,3,75,45,70,45,75,Credit Card,Medium,Medium Value
+C0348,42,Female,Salaried,106918,Chennai,279527,650,Yes,No,Yes,Yes,36,Low,3,55,70,70,45,70,Investment,Medium,Medium Value
+C0349,45,Male,Salaried,108116,Bangalore,264198,708,No,Yes,Yes,No,63,Medium,2,70,70,80,75,80,Insurance,High,Medium Value
+C0350,42,Female,Business,172226,Hyderabad,367556,709,Yes,No,Yes,Yes,56,Medium,3,100,70,70,45,100,Credit Card,High,High Value
+C0351,42,Male,Salaried,86563,Bangalore,345010,708,No,No,Yes,Yes,27,Low,2,80,70,50,55,80,Credit Card,High,Medium Value
+C0352,26,Female,Self-Employed,79757,Delhi,308187,635,No,No,Yes,Yes,22,Low,2,55,50,25,55,55,Credit Card,Medium,Medium Value
+C0353,35,Female,Business,171008,Bangalore,603516,778,Yes,Yes,No,Yes,73,Medium,3,70,100,70,70,100,Investment,High,High Value
+C0354,57,Male,Salaried,107475,Chennai,507219,718,Yes,No,No,Yes,50,Medium,2,100,100,70,45,100,Credit Card,High,High Value
+C0355,53,Female,Business,232329,Pune,570948,764,No,No,Yes,No,94,High,1,100,70,80,100,100,Credit Card,High,High Value
+C0356,28,Male,Salaried,125500,Delhi,244697,758,No,No,No,No,45,Medium,0,100,80,55,100,100,Credit Card,High,Medium Value
+C0357,25,Female,Business,181379,Hyderabad,670042,764,Yes,No,No,No,47,Medium,1,100,80,75,70,100,Credit Card,High,High Value
+C0358,59,Male,Business,106889,Chennai,186891,684,No,No,No,Yes,35,Medium,1,55,75,50,75,75,Investment,Medium,Medium Value
+C0359,24,Female,Self-Employed,70944,Bangalore,171805,682,No,No,Yes,No,48,Low,1,75,25,55,75,75,Credit Card,Medium,Medium Value
+C0360,26,Male,Self-Employed,134555,Bangalore,270005,653,No,No,Yes,No,65,Medium,1,75,50,55,75,75,Credit Card,Medium,Medium Value
+C0361,52,Female,Salaried,68134,Pune,65647,710,Yes,No,No,No,29,Low,1,80,50,100,25,100,Insurance,High,Medium Value
+C0362,50,Female,Salaried,57323,Hyderabad,269109,664,Yes,No,Yes,No,15,Low,2,55,45,100,25,100,Insurance,High,Medium Value
+C0363,55,Male,Business,75954,Hyderabad,149957,623,No,No,No,No,28,Low,0,55,75,80,55,80,Insurance,High,Medium Value
+C0364,60,Male,Salaried,85021,Mumbai,236494,652,No,Yes,No,Yes,26,Low,2,25,100,50,55,100,Investment,High,Medium Value
+C0365,36,Male,Salaried,119959,Hyderabad,126543,731,Yes,Yes,No,No,62,Medium,2,70,75,100,70,100,Insurance,High,Medium Value
+C0366,33,Male,Salaried,125927,Pune,484153,756,No,Yes,Yes,Yes,34,Low,3,50,70,50,100,100,Loan,High,High Value
+C0367,50,Female,Business,54992,Mumbai,127612,673,No,No,No,Yes,34,Low,1,55,50,50,75,75,Loan,Medium,Medium Value
+C0368,39,Male,Salaried,31961,Mumbai,134587,631,Yes,No,No,No,5,Low,1,30,50,75,0,75,Insurance,Medium,Emerging
+C0369,37,Male,Business,62497,Bangalore,173397,633,No,Yes,No,Yes,43,Low,2,45,50,50,75,75,Loan,Medium,Medium Value
+C0370,39,Male,Student,29247,Bangalore,64319,701,No,Yes,No,Yes,17,Medium,2,25,50,25,30,50,Investment,Medium,Emerging
+C0371,48,Female,Salaried,62551,Hyderabad,246475,689,Yes,No,No,No,12,Low,1,55,75,100,25,100,Insurance,High,Medium Value
+C0372,46,Male,Salaried,106384,Mumbai,162712,688,Yes,No,Yes,No,35,Medium,2,55,45,100,45,100,Insurance,High,Medium Value
+C0373,57,Male,Salaried,85755,Bangalore,222177,670,No,Yes,Yes,Yes,42,High,3,45,70,50,75,75,Loan,Medium,Medium Value
+C0374,46,Male,Self-Employed,48255,Pune,69105,689,No,No,Yes,No,10,Low,1,55,20,55,30,55,Credit Card,Medium,Emerging
+C0375,43,Male,Salaried,34567,Bangalore,136755,681,Yes,No,No,Yes,13,Low,2,30,50,45,0,50,Investment,Medium,Emerging
+C0376,29,Female,Salaried,78847,Delhi,122770,657,No,No,No,No,21,Low,0,55,55,55,55,55,Credit Card,Medium,Medium Value
+C0377,32,Male,Salaried,134817,Delhi,523476,678,No,No,Yes,Yes,76,High,2,75,70,50,75,75,Credit Card,Medium,High Value
+C0378,21,Male,Self-Employed,55389,Bangalore,68878,639,No,Yes,No,Yes,49,High,2,45,30,25,75,75,Loan,Medium,Medium Value
+C0379,21,Female,Salaried,74523,Mumbai,218912,668,No,No,No,Yes,49,Medium,1,75,80,25,75,80,Investment,High,Medium Value
+C0380,54,Female,Self-Employed,158802,Mumbai,429275,703,Yes,Yes,Yes,Yes,57,High,4,70,70,70,45,70,Credit Card,Medium,High Value
+C0381,52,Male,Self-Employed,96576,Chennai,456552,741,Yes,Yes,Yes,No,30,Low,3,50,70,100,70,100,Insurance,High,Medium Value
+C0382,45,Female,Salaried,73919,Delhi,190528,666,Yes,No,Yes,No,16,Low,2,55,45,100,25,100,Insurance,High,Medium Value
+C0383,60,Female,Self-Employed,38358,Pune,87156,626,No,No,No,No,37,Medium,0,30,50,55,50,55,Insurance,Medium,Emerging
+C0384,21,Male,Salaried,118535,Mumbai,285261,668,No,No,No,No,58,Medium,0,75,80,55,75,80,Investment,High,Medium Value
+C0385,36,Female,Self-Employed,140982,Hyderabad,216595,710,No,Yes,Yes,Yes,67,High,3,70,70,50,75,75,Loan,Medium,Medium Value
+C0386,59,Female,Business,55698,Delhi,102803,618,No,Yes,No,No,17,Low,1,25,50,80,55,80,Insurance,High,Medium Value
+C0387,25,Male,Self-Employed,101809,Pune,330682,694,Yes,No,Yes,No,11,Low,2,55,50,75,25,75,Insurance,Medium,High Value
+C0388,42,Male,Salaried,123079,Pune,158797,666,Yes,No,No,Yes,23,Low,2,55,75,70,25,75,Investment,Medium,Medium Value
+C0389,49,Male,Salaried,85805,Mumbai,107907,722,Yes,No,Yes,Yes,33,Low,3,80,45,70,70,80,Credit Card,High,Medium Value
+C0390,23,Female,Salaried,61349,Pune,234127,679,No,No,No,No,15,Low,0,55,55,55,55,55,Credit Card,Medium,Medium Value
+C0391,32,Female,Salaried,106777,Mumbai,241930,762,Yes,Yes,Yes,No,30,Low,3,50,70,100,70,100,Insurance,High,Medium Value
+C0392,46,Female,Salaried,80248,Bangalore,115169,678,No,No,No,No,35,Medium,0,55,75,80,75,80,Insurance,High,Medium Value
+C0393,36,Male,Salaried,105033,Delhi,191825,603,Yes,No,Yes,Yes,54,Medium,3,75,45,70,45,75,Credit Card,Medium,Medium Value
+C0394,57,Female,Salaried,137411,Chennai,491617,757,Yes,Yes,Yes,Yes,41,Low,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0395,42,Female,Salaried,128239,Bangalore,233967,724,No,Yes,Yes,No,28,Low,2,50,70,80,80,80,Insurance,High,Medium Value
+C0396,49,Male,Self-Employed,165407,Delhi,499416,747,Yes,Yes,No,Yes,51,Medium,3,70,100,70,70,100,Investment,High,High Value
+C0397,34,Male,Salaried,74041,Mumbai,77457,651,No,Yes,Yes,Yes,12,Low,3,25,45,50,55,55,Loan,Medium,Medium Value
+C0398,48,Female,Salaried,61954,Delhi,199623,674,Yes,Yes,No,Yes,32,Low,3,25,50,70,45,70,Insurance,Medium,Medium Value
+C0399,25,Male,Salaried,38002,Mumbai,96130,669,Yes,No,No,No,14,Low,1,30,30,50,0,50,Insurance,Medium,Emerging
+C0400,50,Female,Salaried,99783,Bangalore,365849,687,Yes,Yes,Yes,No,65,Medium,3,45,70,100,45,100,Insurance,High,Medium Value
+C0401,25,Male,Student,19220,Hyderabad,94816,602,No,Yes,No,No,18,Low,1,0,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0402,32,Male,Salaried,117234,Hyderabad,410451,786,Yes,Yes,No,Yes,71,Medium,3,70,100,70,70,100,Investment,High,High Value
+C0403,36,Male,Business,174857,Delhi,359325,757,No,Yes,Yes,No,44,Medium,2,70,70,80,100,100,Loan,High,High Value
+C0404,46,Male,Student,29738,Hyderabad,79771,672,No,No,No,No,5,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0405,46,Female,Self-Employed,45703,Mumbai,83631,707,No,No,No,Yes,20,Low,1,80,50,25,30,80,Credit Card,High,Emerging
+C0406,41,Male,Business,163776,Pune,293511,746,Yes,Yes,No,Yes,63,Medium,3,70,100,70,70,100,Investment,High,Medium Value
+C0407,59,Female,Self-Employed,178464,Mumbai,320348,714,Yes,No,Yes,No,65,High,2,100,70,100,45,100,Credit Card,High,High Value
+C0408,56,Male,Student,21956,Pune,118575,693,No,No,No,No,9,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0409,53,Female,Business,82299,Bangalore,209448,711,Yes,No,Yes,No,14,Low,2,80,70,100,25,100,Insurance,High,Medium Value
+C0410,50,Male,Business,65641,Chennai,163742,658,No,No,No,No,33,Medium,0,55,50,80,75,80,Insurance,High,Medium Value
+C0411,57,Female,Business,129534,Pune,411479,733,Yes,Yes,Yes,Yes,59,Medium,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0412,43,Female,Business,56305,Hyderabad,165475,665,Yes,Yes,No,No,5,Low,2,25,50,100,25,100,Insurance,High,Medium Value
+C0413,30,Male,Business,68782,Mumbai,54583,685,Yes,No,No,No,20,Low,1,55,50,100,25,100,Insurance,High,Medium Value
+C0414,25,Male,Salaried,108257,Bangalore,487177,717,Yes,Yes,Yes,No,36,Medium,3,50,50,75,45,75,Insurance,Medium,High Value
+C0415,56,Female,Salaried,135299,Hyderabad,252615,753,No,No,Yes,Yes,40,Medium,2,100,70,50,100,100,Credit Card,High,Medium Value
+C0416,54,Female,Salaried,107963,Bangalore,431296,679,No,No,Yes,No,23,Low,1,55,70,80,55,80,Insurance,High,High Value
+C0417,51,Male,Salaried,142086,Chennai,580568,727,Yes,Yes,Yes,Yes,53,Medium,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0418,30,Female,Salaried,50566,Mumbai,236383,730,Yes,Yes,Yes,No,22,Low,3,50,45,100,50,100,Insurance,High,Medium Value
+C0419,39,Female,Salaried,97766,Delhi,322220,688,Yes,No,Yes,No,27,Low,2,55,70,100,25,100,Insurance,High,Medium Value
+C0420,52,Female,Business,56511,Mumbai,64231,679,No,Yes,No,Yes,5,Low,2,25,50,50,55,55,Loan,Medium,Medium Value
+C0421,21,Female,Salaried,144816,Chennai,352611,777,Yes,Yes,No,No,60,High,2,70,80,75,70,80,Investment,High,High Value
+C0422,25,Female,Self-Employed,39765,Mumbai,129204,683,No,No,No,No,5,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0423,24,Male,Salaried,50354,Delhi,141012,625,No,No,Yes,No,14,Low,1,55,0,55,55,55,Credit Card,Medium,Medium Value
+C0424,36,Male,Salaried,53929,Pune,227525,648,Yes,Yes,No,Yes,13,Low,3,25,75,70,25,75,Investment,Medium,Medium Value
+C0425,44,Male,Business,209892,Bangalore,455140,770,Yes,Yes,Yes,No,97,High,3,70,70,100,70,100,Insurance,High,High Value
+C0426,36,Female,Business,161576,Delhi,364918,738,Yes,No,Yes,Yes,49,Medium,3,100,70,70,70,100,Credit Card,High,High Value
+C0427,22,Female,Salaried,59523,Hyderabad,112902,679,No,No,No,Yes,48,Medium,1,75,30,25,75,75,Credit Card,Medium,Medium Value
+C0428,48,Male,Self-Employed,106088,Chennai,249973,762,Yes,Yes,Yes,No,51,Medium,3,70,70,100,70,100,Insurance,High,Medium Value
+C0429,52,Female,Self-Employed,112525,Pune,356586,682,No,No,Yes,No,69,Medium,1,75,70,80,75,80,Insurance,High,High Value
+C0430,47,Female,Salaried,43780,Hyderabad,167361,664,No,Yes,No,No,26,Low,1,25,50,55,30,55,Insurance,Medium,Medium Value
+C0431,40,Female,Salaried,36589,Hyderabad,120094,604,No,No,Yes,Yes,10,Low,2,30,20,25,30,30,No Immediate Opportunity,Low,Emerging
+C0432,44,Male,Student,12044,Chennai,38144,685,No,No,No,Yes,5,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0433,32,Male,Business,143664,Pune,636365,692,Yes,No,Yes,Yes,48,Medium,3,75,70,70,45,75,Credit Card,Medium,High Value
+C0434,55,Male,Business,227011,Hyderabad,984913,790,Yes,Yes,Yes,No,107,High,3,70,70,100,70,100,Insurance,High,High Value
+C0435,53,Male,Self-Employed,139188,Hyderabad,153173,743,Yes,Yes,No,Yes,51,Medium,3,70,75,70,70,75,Investment,Medium,Medium Value
+C0436,53,Male,Salaried,123326,Pune,504728,777,No,Yes,No,Yes,56,Medium,2,70,100,50,100,100,Investment,High,High Value
+C0437,57,Male,Salaried,70953,Mumbai,150607,699,Yes,Yes,No,Yes,29,Low,3,25,75,70,25,75,Investment,Medium,Medium Value
+C0438,32,Male,Salaried,95785,Hyderabad,137516,682,No,No,No,No,39,Medium,0,55,75,80,75,80,Insurance,High,Medium Value
+C0439,23,Male,Self-Employed,54309,Bangalore,210643,685,Yes,Yes,No,No,24,Low,2,25,55,75,25,75,Insurance,Medium,Medium Value
+C0440,21,Male,Business,104195,Pune,237175,674,No,Yes,Yes,Yes,46,Low,3,45,50,25,75,75,Loan,Medium,Medium Value
+C0441,53,Female,Business,75901,Hyderabad,90068,692,Yes,Yes,Yes,No,16,Low,3,25,45,100,25,100,Insurance,High,Medium Value
+C0442,60,Male,Salaried,53576,Chennai,108117,665,Yes,No,Yes,Yes,15,Low,3,55,20,70,25,70,Insurance,Medium,Medium Value
+C0443,30,Female,Salaried,61508,Delhi,72812,673,No,No,No,No,27,Low,0,55,50,80,55,80,Insurance,High,Medium Value
+C0444,49,Female,Salaried,104711,Bangalore,475972,670,No,No,Yes,No,41,Medium,1,75,70,80,75,80,Insurance,High,High Value
+C0445,33,Male,Business,75464,Delhi,92670,691,No,No,No,No,21,Low,0,55,75,80,55,80,Insurance,High,Medium Value
+C0446,32,Male,Business,241353,Delhi,418249,790,Yes,Yes,No,Yes,96,High,3,70,100,70,70,100,Investment,High,High Value
+C0447,51,Male,Salaried,46260,Hyderabad,128231,618,No,Yes,No,Yes,5,Low,2,25,50,25,30,50,Investment,Medium,Emerging
+C0448,22,Female,Self-Employed,159997,Bangalore,358206,704,No,No,Yes,No,41,Medium,1,100,50,55,75,100,Credit Card,High,High Value
+C0449,55,Female,Salaried,65440,Bangalore,284405,682,No,No,Yes,Yes,28,Low,2,55,45,50,55,55,Credit Card,Medium,Medium Value
+C0450,43,Male,Student,17279,Mumbai,31756,583,No,No,Yes,No,5,Low,1,30,20,55,30,55,Insurance,Medium,Emerging
+C0451,37,Female,Salaried,86683,Delhi,210879,740,No,No,No,No,36,Medium,0,80,100,80,100,100,Investment,High,Medium Value
+C0452,46,Male,Business,174206,Bangalore,684430,710,No,No,No,No,36,Medium,0,80,100,80,75,100,Investment,High,High Value
+C0453,28,Male,Salaried,71430,Mumbai,354324,652,No,Yes,No,No,15,Low,1,25,80,55,55,80,Investment,High,Medium Value
+C0454,49,Female,Self-Employed,168059,Pune,548324,722,Yes,No,Yes,No,58,Medium,2,100,70,100,70,100,Credit Card,High,High Value
+C0455,46,Male,Salaried,144778,Mumbai,658212,721,Yes,Yes,No,No,30,Medium,2,50,100,100,70,100,Investment,High,High Value
+C0456,30,Female,Salaried,55105,Chennai,127041,649,No,No,No,No,15,Low,0,55,50,80,55,80,Insurance,High,Medium Value
+C0457,46,Male,Salaried,108484,Hyderabad,272347,728,No,Yes,No,Yes,58,Medium,2,70,100,50,100,100,Investment,High,Medium Value
+C0458,54,Female,Salaried,148747,Pune,352711,731,Yes,Yes,No,Yes,36,Medium,3,50,100,70,70,100,Investment,High,High Value
+C0459,27,Male,Salaried,43026,Pune,229285,641,Yes,No,No,Yes,10,Medium,2,55,55,20,0,55,Credit Card,Medium,Medium Value
+C0460,24,Male,Self-Employed,103309,Chennai,158985,681,Yes,Yes,No,No,64,Medium,2,45,55,75,45,75,Insurance,Medium,Medium Value
+C0461,31,Female,Salaried,75927,Mumbai,125276,637,No,No,No,No,12,Low,0,55,75,80,55,80,Insurance,High,Medium Value
+C0462,49,Male,Self-Employed,77946,Hyderabad,204730,646,Yes,No,Yes,No,50,Low,2,75,70,100,45,100,Insurance,High,Medium Value
+C0463,56,Female,Business,176503,Mumbai,211886,745,Yes,Yes,Yes,No,62,Medium,3,70,70,100,70,100,Insurance,High,Medium Value
+C0464,45,Female,Business,237633,Bangalore,406244,739,Yes,Yes,Yes,No,90,High,3,70,70,100,70,100,Insurance,High,High Value
+C0465,41,Female,Salaried,40377,Mumbai,170818,719,No,Yes,No,No,34,Medium,1,50,50,55,50,55,Insurance,Medium,Medium Value
+C0466,56,Female,Salaried,83592,Pune,214152,688,Yes,No,Yes,Yes,24,Medium,3,55,70,70,25,70,Investment,Medium,Medium Value
+C0467,30,Female,Self-Employed,173419,Hyderabad,606620,691,No,Yes,Yes,No,74,High,2,45,70,80,75,80,Insurance,High,High Value
+C0468,57,Female,Student,11008,Mumbai,18208,616,No,No,No,No,17,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0469,29,Female,Salaried,33783,Hyderabad,60412,693,No,No,No,No,5,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0470,44,Female,Salaried,85798,Hyderabad,136997,685,No,Yes,No,Yes,20,Low,2,25,75,50,55,75,Investment,Medium,Medium Value
+C0471,55,Male,Salaried,34298,Bangalore,25645,691,No,Yes,No,No,9,Low,1,0,50,55,30,55,Insurance,Medium,Emerging
+C0472,55,Male,Student,14668,Bangalore,15464,641,No,No,Yes,No,5,Low,1,30,20,55,30,55,Insurance,Medium,Emerging
+C0473,56,Female,Salaried,116207,Pune,450761,686,No,Yes,Yes,Yes,27,Medium,3,25,70,50,55,70,Investment,Medium,High Value
+C0474,38,Male,Salaried,130356,Chennai,331119,743,No,No,Yes,No,39,Low,1,80,70,80,100,100,Loan,High,High Value
+C0475,59,Male,Self-Employed,95652,Hyderabad,88844,667,No,No,No,No,5,Low,0,55,75,80,55,80,Insurance,High,Medium Value
+C0476,52,Male,Salaried,64484,Chennai,192490,691,No,No,No,Yes,19,Low,1,55,50,50,55,55,Credit Card,Medium,Medium Value
+C0477,44,Male,Salaried,128614,Pune,596009,703,No,No,No,Yes,61,Medium,1,100,100,50,75,100,Credit Card,High,High Value
+C0478,43,Female,Business,179572,Hyderabad,774374,761,Yes,Yes,Yes,No,42,Medium,3,70,70,100,70,100,Insurance,High,High Value
+C0479,52,Female,Self-Employed,55922,Hyderabad,250609,727,Yes,No,No,Yes,14,Low,2,80,75,70,50,80,Credit Card,High,Medium Value
+C0480,57,Male,Salaried,64028,Delhi,259836,665,No,No,Yes,Yes,60,Medium,2,75,45,50,75,75,Credit Card,Medium,Medium Value
+C0481,32,Male,Salaried,141461,Chennai,320365,699,Yes,No,Yes,Yes,52,Medium,3,75,70,70,45,75,Credit Card,Medium,High Value
+C0482,33,Female,Salaried,50316,Mumbai,230577,690,No,No,Yes,Yes,39,Low,2,55,45,50,75,75,Loan,Medium,Medium Value
+C0483,43,Male,Salaried,106996,Bangalore,138060,666,Yes,Yes,Yes,Yes,24,Low,4,25,45,70,25,70,Insurance,Medium,Medium Value
+C0484,45,Female,Business,198040,Mumbai,717904,792,No,Yes,Yes,Yes,81,High,3,70,70,50,100,100,Loan,High,High Value
+C0485,55,Male,Salaried,60266,Chennai,217630,718,Yes,No,Yes,Yes,5,Low,3,80,45,70,25,80,Credit Card,High,Medium Value
+C0486,50,Male,Salaried,125745,Bangalore,123072,677,No,No,Yes,Yes,53,Low,2,75,45,50,75,75,Credit Card,Medium,Medium Value
+C0487,37,Female,Salaried,54000,Mumbai,221898,624,No,Yes,No,No,32,Medium,1,25,75,80,75,80,Insurance,High,Medium Value
+C0488,40,Male,Business,195083,Delhi,881682,707,Yes,Yes,Yes,No,82,Medium,3,70,70,100,45,100,Insurance,High,High Value
+C0489,45,Female,Business,52866,Bangalore,122158,636,Yes,No,Yes,Yes,14,Low,3,55,20,70,25,70,Insurance,Medium,Medium Value
+C0490,42,Female,Self-Employed,147669,Hyderabad,600764,743,Yes,Yes,Yes,No,59,Medium,3,70,70,100,70,100,Insurance,High,High Value
+C0491,33,Male,Salaried,35898,Mumbai,68977,709,No,No,Yes,Yes,17,Low,2,55,20,25,30,55,Credit Card,Medium,Emerging
+C0492,39,Female,Self-Employed,53395,Bangalore,180070,695,No,No,No,No,30,Low,0,55,50,80,75,80,Insurance,High,Medium Value
+C0493,56,Female,Self-Employed,39006,Delhi,105817,657,No,No,No,No,12,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0494,32,Male,Salaried,64393,Bangalore,184913,687,Yes,Yes,No,Yes,38,Medium,3,25,50,70,45,70,Insurance,Medium,Medium Value
+C0495,39,Female,Salaried,40956,Bangalore,213303,639,No,Yes,No,No,36,Low,1,25,75,55,50,75,Investment,Medium,Medium Value
+C0496,32,Female,Salaried,80042,Delhi,345972,717,Yes,No,Yes,Yes,25,Low,3,80,70,70,25,80,Credit Card,High,Medium Value
+C0497,29,Female,Salaried,126199,Mumbai,499161,721,No,No,Yes,Yes,48,Medium,2,100,50,25,100,100,Credit Card,High,High Value
+C0498,27,Female,Salaried,36078,Pune,96605,686,No,No,No,No,5,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0499,48,Male,Salaried,59631,Mumbai,259035,652,No,No,No,Yes,27,Low,1,55,75,50,55,75,Investment,Medium,Medium Value
+C0500,34,Female,Salaried,125676,Chennai,172803,702,No,No,No,Yes,52,Medium,1,100,75,50,75,100,Credit Card,High,Medium Value
+C0501,51,Female,Self-Employed,156724,Delhi,708048,745,Yes,No,Yes,Yes,59,Low,3,100,70,70,70,100,Credit Card,High,High Value
+C0502,39,Female,Salaried,92901,Mumbai,218005,734,No,Yes,Yes,Yes,36,Low,3,50,70,50,100,100,Loan,High,Medium Value
+C0503,36,Female,Self-Employed,142227,Bangalore,207435,697,No,Yes,No,Yes,82,Medium,2,45,100,50,75,100,Investment,High,Medium Value
+C0504,25,Female,Business,167192,Delhi,598137,752,No,Yes,Yes,No,19,Low,2,50,50,55,80,80,Loan,High,High Value
+C0505,55,Male,Self-Employed,66417,Hyderabad,123650,656,Yes,No,No,Yes,17,Low,2,55,50,70,25,70,Insurance,Medium,Medium Value
+C0506,32,Female,Business,138020,Mumbai,269827,777,Yes,No,Yes,Yes,46,Medium,3,100,70,70,70,100,Credit Card,High,Medium Value
+C0507,45,Female,Salaried,113639,Delhi,265179,689,No,Yes,Yes,No,64,High,2,45,70,80,75,80,Insurance,High,Medium Value
+C0508,41,Female,Business,246078,Mumbai,334536,787,Yes,Yes,Yes,No,99,High,3,70,70,100,70,100,Insurance,High,High Value
+C0509,56,Female,Salaried,124881,Delhi,214832,712,Yes,No,Yes,No,54,Medium,2,100,70,100,45,100,Credit Card,High,Medium Value
+C0510,43,Male,Salaried,141862,Bangalore,142025,794,No,Yes,No,No,72,Medium,1,70,75,80,100,100,Loan,High,Medium Value
+C0511,36,Male,Self-Employed,167659,Hyderabad,436706,735,Yes,No,Yes,No,60,Medium,2,100,70,100,70,100,Credit Card,High,High Value
+C0512,59,Male,Salaried,138107,Hyderabad,186899,698,Yes,Yes,No,No,61,Medium,2,45,75,100,45,100,Insurance,High,Medium Value
+C0513,59,Male,Salaried,145584,Chennai,530111,737,No,Yes,Yes,No,46,Medium,2,70,70,80,100,100,Loan,High,High Value
+C0514,34,Female,Business,235782,Delhi,470373,781,Yes,Yes,No,Yes,72,High,3,70,100,70,70,100,Investment,High,High Value
+C0515,51,Female,Self-Employed,121567,Mumbai,572203,701,No,Yes,Yes,No,72,High,2,70,70,80,75,80,Insurance,High,High Value
+C0516,25,Female,Business,125886,Hyderabad,559786,675,No,No,No,Yes,52,Low,1,75,80,25,75,80,Investment,High,High Value
+C0517,55,Male,Salaried,48816,Hyderabad,76128,653,No,No,Yes,No,27,Medium,1,55,20,55,30,55,Credit Card,Medium,Emerging
+C0518,43,Female,Business,79432,Pune,292052,711,No,Yes,Yes,Yes,13,Low,3,50,70,50,55,70,Investment,Medium,Medium Value
+C0519,49,Male,Salaried,139758,Pune,626017,662,Yes,No,Yes,No,60,Low,2,75,70,100,45,100,Insurance,High,High Value
+C0520,31,Male,Business,229689,Hyderabad,1138693,752,Yes,Yes,Yes,Yes,112,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0521,38,Female,Student,16837,Delhi,65187,683,Yes,No,No,No,5,Low,1,30,50,75,0,75,Insurance,Medium,Emerging
+C0522,32,Female,Business,215289,Chennai,267628,750,No,Yes,Yes,Yes,61,Medium,3,70,70,50,100,100,Loan,High,Medium Value
+C0523,29,Male,Self-Employed,55884,Hyderabad,217985,738,Yes,No,No,Yes,23,Medium,2,80,55,45,50,80,Credit Card,High,Medium Value
+C0524,30,Male,Salaried,35454,Bangalore,137988,610,No,Yes,No,No,5,Low,1,0,50,55,30,55,Insurance,Medium,Emerging
+C0525,37,Male,Business,124960,Mumbai,427984,678,Yes,No,Yes,Yes,23,Low,3,55,70,70,25,70,Investment,Medium,High Value
+C0526,58,Male,Self-Employed,137421,Chennai,285063,644,No,Yes,No,Yes,40,Low,2,45,100,50,75,100,Investment,High,Medium Value
+C0527,27,Female,Salaried,137173,Bangalore,594221,773,Yes,Yes,Yes,No,44,Low,3,70,50,75,70,75,Insurance,Medium,High Value
+C0528,33,Male,Self-Employed,78618,Chennai,379779,655,No,No,No,No,14,Low,0,55,100,80,55,100,Investment,High,Medium Value
+C0529,60,Male,Salaried,113948,Bangalore,216521,642,Yes,Yes,Yes,Yes,62,Medium,4,45,70,70,45,70,Investment,Medium,Medium Value
+C0530,29,Male,Business,243743,Mumbai,330456,748,Yes,Yes,No,Yes,119,High,3,70,80,45,70,80,Investment,High,High Value
+C0531,47,Male,Self-Employed,82111,Mumbai,171979,644,Yes,No,No,No,40,Low,1,75,75,100,45,100,Insurance,High,Medium Value
+C0532,22,Male,Business,220685,Pune,930720,737,No,No,No,No,88,High,0,100,80,55,100,100,Credit Card,High,High Value
+C0533,25,Male,Salaried,115678,Delhi,407036,704,No,Yes,Yes,No,41,Medium,2,70,50,55,75,75,Loan,Medium,High Value
+C0534,49,Male,Business,170592,Bangalore,604612,754,Yes,Yes,Yes,Yes,50,Medium,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0535,57,Male,Business,109993,Pune,252909,694,Yes,Yes,Yes,No,65,Medium,3,45,70,100,45,100,Insurance,High,Medium Value
+C0536,58,Female,Self-Employed,163652,Bangalore,555817,727,No,Yes,Yes,Yes,60,Medium,3,70,70,50,100,100,Loan,High,High Value
+C0537,39,Male,Salaried,38848,Pune,88648,646,Yes,No,No,Yes,7,Low,2,30,50,45,0,50,Investment,Medium,Emerging
+C0538,28,Female,Salaried,144853,Mumbai,414587,672,Yes,No,No,No,69,High,1,75,80,75,45,80,Investment,High,High Value
+C0539,21,Male,Business,128672,Chennai,528980,654,Yes,No,Yes,Yes,47,Medium,3,75,50,45,45,75,Credit Card,Medium,High Value
+C0540,42,Female,Salaried,149279,Pune,753393,708,Yes,No,No,No,70,High,1,100,100,100,45,100,Credit Card,High,High Value
+C0541,37,Female,Business,116125,Bangalore,566829,705,Yes,No,Yes,Yes,37,Low,3,80,70,70,45,80,Credit Card,High,High Value
+C0542,27,Female,Business,167509,Bangalore,788305,715,Yes,No,Yes,No,78,Medium,2,100,50,75,45,100,Credit Card,High,High Value
+C0543,45,Female,Self-Employed,96602,Delhi,263859,639,Yes,Yes,No,No,50,Medium,2,45,100,100,45,100,Investment,High,Medium Value
+C0544,24,Male,Business,92222,Mumbai,282420,697,No,Yes,No,Yes,54,Medium,2,45,80,25,75,80,Investment,High,Medium Value
+C0545,56,Male,Business,99223,Bangalore,385994,743,Yes,Yes,Yes,No,26,Low,3,50,70,100,50,100,Insurance,High,Medium Value
+C0546,26,Male,Salaried,140012,Hyderabad,652374,711,No,Yes,Yes,No,51,Medium,2,70,50,55,75,75,Loan,Medium,High Value
+C0547,51,Female,Salaried,141246,Chennai,229093,698,Yes,Yes,Yes,Yes,82,Medium,4,45,70,70,45,70,Investment,Medium,Medium Value
+C0548,39,Male,Salaried,95333,Pune,190568,690,No,Yes,Yes,No,32,Low,2,25,45,80,75,80,Insurance,High,Medium Value
+C0549,59,Male,Salaried,82732,Delhi,130234,653,Yes,Yes,Yes,Yes,43,Medium,4,45,45,70,45,70,Insurance,Medium,Medium Value
+C0550,47,Female,Business,172650,Chennai,590640,696,No,No,Yes,No,99,High,1,75,70,80,75,80,Insurance,High,High Value
+C0551,30,Female,Business,99420,Mumbai,213432,708,Yes,No,Yes,Yes,9,Low,3,80,70,70,25,80,Credit Card,High,Medium Value
+C0552,46,Female,Business,125504,Delhi,254684,737,No,Yes,Yes,Yes,42,Medium,3,70,70,50,100,100,Loan,High,Medium Value
+C0553,39,Female,Self-Employed,37462,Pune,27536,659,No,No,No,Yes,14,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0554,59,Female,Student,19460,Pune,36970,595,No,No,No,Yes,5,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0555,23,Male,Self-Employed,134319,Hyderabad,615618,722,No,Yes,Yes,Yes,43,Medium,3,70,50,25,100,100,Loan,High,High Value
+C0556,33,Male,Business,190347,Mumbai,373522,802,No,Yes,Yes,No,56,Medium,2,70,70,80,100,100,Loan,High,High Value
+C0557,48,Male,Business,194341,Delhi,753548,735,Yes,No,Yes,No,85,High,2,100,70,100,70,100,Credit Card,High,High Value
+C0558,40,Male,Salaried,95942,Delhi,362431,687,No,Yes,No,Yes,10,Low,2,25,100,50,55,100,Investment,High,Medium Value
+C0559,48,Female,Salaried,102920,Bangalore,464985,670,Yes,No,Yes,Yes,66,Medium,3,75,70,70,45,75,Credit Card,Medium,High Value
+C0560,28,Male,Salaried,52553,Hyderabad,83167,685,Yes,No,No,No,30,Medium,1,55,30,75,45,75,Insurance,Medium,Medium Value
+C0561,59,Female,Self-Employed,79036,Hyderabad,368635,664,No,Yes,Yes,Yes,13,Low,3,25,70,50,55,70,Investment,Medium,Medium Value
+C0562,21,Male,Self-Employed,177867,Delhi,632122,764,Yes,Yes,Yes,Yes,82,High,4,70,50,45,70,70,Credit Card,Medium,High Value
+C0563,23,Female,Salaried,100021,Delhi,469937,675,No,No,Yes,No,46,Low,1,75,50,55,75,75,Credit Card,Medium,High Value
+C0564,33,Female,Salaried,137205,Chennai,639837,723,Yes,Yes,No,Yes,50,Medium,3,70,100,70,70,100,Investment,High,High Value
+C0565,48,Male,Self-Employed,123209,Chennai,249036,705,No,No,Yes,Yes,35,Medium,2,80,70,50,75,80,Credit Card,High,Medium Value
+C0566,45,Male,Salaried,105139,Chennai,145693,744,Yes,Yes,Yes,No,47,Medium,3,70,45,100,70,100,Insurance,High,Medium Value
+C0567,53,Male,Salaried,135232,Hyderabad,250412,725,No,Yes,Yes,No,52,Medium,2,70,70,80,100,100,Loan,High,Medium Value
+C0568,58,Male,Self-Employed,40368,Bangalore,117156,706,No,Yes,No,Yes,5,Low,2,50,50,25,30,50,Credit Card,Medium,Emerging
+C0569,26,Male,Salaried,34621,Pune,42405,665,Yes,No,No,No,5,Low,1,30,30,50,0,50,Insurance,Medium,Emerging
+C0570,52,Male,Salaried,88829,Chennai,108721,684,No,No,No,No,20,Low,0,55,75,80,55,80,Insurance,High,Medium Value
+C0571,41,Male,Business,179036,Bangalore,512926,733,Yes,Yes,Yes,Yes,59,Medium,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0572,36,Female,Self-Employed,49719,Mumbai,41982,646,No,No,No,Yes,36,Medium,1,55,50,25,50,55,Credit Card,Medium,Emerging
+C0573,41,Female,Business,79227,Chennai,147963,700,No,No,No,Yes,42,Medium,1,100,75,50,75,100,Credit Card,High,Medium Value
+C0574,31,Female,Salaried,139430,Pune,383667,694,No,Yes,Yes,Yes,45,Medium,3,45,70,50,75,75,Loan,Medium,High Value
+C0575,57,Male,Salaried,37566,Mumbai,47880,667,No,No,No,Yes,7,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0576,56,Female,Salaried,42306,Mumbai,99992,691,Yes,No,No,Yes,30,Low,2,55,50,45,20,55,Credit Card,Medium,Emerging
+C0577,55,Male,Business,103822,Pune,302973,744,Yes,No,Yes,Yes,42,Medium,3,100,70,70,70,100,Credit Card,High,High Value
+C0578,39,Male,Self-Employed,59042,Chennai,160499,679,Yes,No,Yes,No,25,Low,2,55,20,100,25,100,Insurance,High,Medium Value
+C0579,40,Female,Salaried,45086,Hyderabad,203227,693,No,No,Yes,No,6,Low,1,55,45,55,30,55,Credit Card,Medium,Medium Value
+C0580,38,Male,Self-Employed,124424,Pune,426266,729,Yes,Yes,Yes,Yes,44,Low,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0581,34,Female,Salaried,81618,Pune,213105,674,No,Yes,No,No,30,Low,1,25,100,80,75,100,Investment,High,Medium Value
+C0582,35,Female,Salaried,122050,Pune,319185,769,Yes,No,Yes,No,44,Low,2,100,70,100,70,100,Credit Card,High,High Value
+C0583,51,Male,Salaried,48323,Mumbai,220490,651,No,Yes,No,No,29,Low,1,25,75,55,30,75,Investment,Medium,Medium Value
+C0584,21,Male,Salaried,48019,Bangalore,211935,671,Yes,Yes,No,No,29,Low,2,25,55,50,0,55,Investment,Medium,Medium Value
+C0585,23,Male,Business,125426,Hyderabad,585111,751,No,No,Yes,No,33,Medium,1,80,50,55,100,100,Loan,High,High Value
+C0586,36,Female,Business,90863,Chennai,349234,733,Yes,Yes,Yes,No,26,Low,3,50,70,100,50,100,Insurance,High,Medium Value
+C0587,43,Male,Salaried,141023,Chennai,204129,716,Yes,No,Yes,Yes,42,Low,3,100,70,70,45,100,Credit Card,High,Medium Value
+C0588,31,Male,Business,191355,Bangalore,407358,770,Yes,Yes,Yes,Yes,92,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0589,32,Male,Salaried,48279,Pune,43082,662,No,Yes,No,No,51,Medium,1,45,50,55,50,55,Insurance,Medium,Emerging
+C0590,30,Female,Self-Employed,81999,Hyderabad,371372,671,Yes,No,No,No,23,Low,1,55,100,100,25,100,Investment,High,Medium Value
+C0591,52,Male,Self-Employed,97780,Chennai,353427,657,No,No,No,No,34,Medium,0,55,100,80,75,100,Investment,High,Medium Value
+C0592,36,Male,Salaried,52908,Delhi,236137,693,Yes,No,No,Yes,32,Low,2,55,75,70,45,75,Investment,Medium,Medium Value
+C0593,28,Female,Business,242656,Chennai,559983,791,No,No,No,Yes,80,High,1,100,80,25,100,100,Credit Card,High,High Value
+C0594,58,Female,Salaried,143002,Pune,626271,699,Yes,No,Yes,No,66,Medium,2,75,70,100,45,100,Insurance,High,High Value
+C0595,32,Male,Salaried,80225,Delhi,179155,693,Yes,Yes,No,Yes,29,Medium,3,25,75,70,25,75,Investment,Medium,Medium Value
+C0596,44,Male,Salaried,67952,Bangalore,73771,758,Yes,Yes,No,Yes,5,Low,3,50,50,70,50,70,Insurance,Medium,Medium Value
+C0597,48,Male,Self-Employed,135706,Hyderabad,316635,747,Yes,No,Yes,Yes,31,Medium,3,80,70,70,70,80,Credit Card,High,High Value
+C0598,28,Female,Business,218735,Bangalore,715214,727,Yes,Yes,Yes,No,77,Medium,3,70,50,75,70,75,Insurance,Medium,High Value
+C0599,48,Male,Salaried,139708,Bangalore,405760,745,No,Yes,No,No,70,High,1,70,100,80,100,100,Investment,High,High Value
+C0600,56,Male,Self-Employed,44343,Hyderabad,212484,640,No,No,Yes,No,5,Low,1,55,45,55,30,55,Credit Card,Medium,Medium Value
+C0601,46,Female,Business,126173,Hyderabad,168040,621,No,No,No,Yes,39,Low,1,55,75,50,75,75,Investment,Medium,Medium Value
+C0602,28,Female,Self-Employed,135260,Chennai,416647,712,Yes,No,Yes,Yes,53,High,3,100,50,45,45,100,Credit Card,High,High Value
+C0603,48,Male,Business,220863,Chennai,673144,802,Yes,Yes,Yes,Yes,57,Medium,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0604,48,Female,Business,210206,Hyderabad,433899,792,No,Yes,No,No,83,High,1,70,100,80,100,100,Investment,High,High Value
+C0605,57,Female,Salaried,142366,Delhi,604125,727,Yes,No,Yes,Yes,30,Medium,3,80,70,70,70,80,Credit Card,High,High Value
+C0606,56,Male,Salaried,77101,Mumbai,307664,667,No,No,Yes,Yes,37,Medium,2,55,70,50,75,75,Loan,Medium,Medium Value
+C0607,47,Male,Student,13907,Chennai,47013,666,No,No,Yes,No,5,Low,1,30,20,55,30,55,Insurance,Medium,Emerging
+C0608,37,Female,Salaried,129111,Mumbai,600879,701,No,No,No,Yes,34,Low,1,80,100,50,75,100,Investment,High,High Value
+C0609,29,Male,Student,24031,Delhi,121793,641,No,No,No,No,13,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0610,53,Male,Business,185899,Hyderabad,375553,770,No,No,Yes,No,81,High,1,100,70,80,100,100,Credit Card,High,High Value
+C0611,40,Male,Salaried,126143,Delhi,446726,692,Yes,Yes,No,Yes,52,Medium,3,45,100,70,45,100,Investment,High,High Value
+C0612,33,Female,Salaried,92653,Chennai,193851,725,No,Yes,Yes,Yes,37,Medium,3,50,45,50,100,100,Loan,High,Medium Value
+C0613,48,Male,Salaried,43699,Bangalore,82457,648,No,No,Yes,Yes,19,Low,2,55,20,25,30,55,Credit Card,Medium,Emerging
+C0614,49,Male,Self-Employed,149527,Hyderabad,156265,781,No,Yes,Yes,Yes,61,Medium,3,70,45,50,100,100,Loan,High,Medium Value
+C0615,33,Male,Salaried,146972,Pune,566859,669,No,Yes,No,Yes,61,Medium,2,45,100,50,75,100,Investment,High,High Value
+C0616,55,Male,Salaried,35313,Mumbai,131914,633,Yes,No,No,No,7,Low,1,30,50,75,0,75,Insurance,Medium,Emerging
+C0617,26,Female,Salaried,43598,Delhi,75513,662,No,No,No,No,26,Medium,0,55,30,30,30,55,Credit Card,Medium,Emerging
+C0618,38,Female,Salaried,141362,Hyderabad,565269,656,No,Yes,Yes,No,41,Low,2,45,70,80,75,80,Insurance,High,High Value
+C0619,25,Male,Salaried,145445,Delhi,651809,640,Yes,Yes,Yes,Yes,70,High,4,45,50,45,45,50,Investment,Medium,High Value
+C0620,45,Male,Salaried,58807,Hyderabad,75012,615,No,No,No,Yes,33,Low,1,55,50,50,75,75,Loan,Medium,Medium Value
+C0621,22,Female,Self-Employed,94550,Chennai,185571,683,Yes,No,Yes,Yes,68,Medium,3,75,25,45,45,75,Credit Card,Medium,Medium Value
+C0622,30,Male,Salaried,110072,Chennai,440606,692,Yes,No,Yes,No,49,Medium,2,75,70,100,45,100,Insurance,High,High Value
+C0623,50,Male,Salaried,33558,Chennai,79343,671,No,Yes,No,No,26,Low,1,0,50,55,30,55,Insurance,Medium,Emerging
+C0624,25,Female,Salaried,105308,Delhi,376207,691,No,No,No,No,16,Low,0,55,80,55,55,80,Investment,High,High Value
+C0625,53,Female,Salaried,80113,Pune,97980,694,Yes,No,No,No,44,Medium,1,75,75,100,45,100,Insurance,High,Medium Value
+C0626,21,Male,Student,13575,Chennai,40531,638,No,No,No,No,22,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0627,38,Male,Business,108219,Hyderabad,412154,720,No,Yes,Yes,No,63,High,2,70,70,80,100,100,Loan,High,High Value
+C0628,52,Male,Salaried,65186,Chennai,238785,695,No,No,No,Yes,26,Low,1,55,75,50,55,75,Investment,Medium,Medium Value
+C0629,31,Male,Business,218038,Bangalore,907792,744,Yes,No,No,No,76,High,1,100,100,100,70,100,Credit Card,High,High Value
+C0630,41,Male,Salaried,63769,Chennai,308894,692,Yes,No,Yes,No,7,Low,2,55,45,100,25,100,Insurance,High,Medium Value
+C0631,46,Male,Salaried,149932,Delhi,608161,714,No,No,Yes,No,41,Low,1,100,70,80,75,100,Credit Card,High,High Value
+C0632,45,Male,Student,17119,Pune,84385,607,No,No,No,Yes,6,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0633,42,Female,Self-Employed,88218,Bangalore,105641,716,Yes,No,Yes,Yes,6,Low,3,80,45,70,25,80,Credit Card,High,Medium Value
+C0634,47,Female,Student,29229,Delhi,74061,632,No,No,No,Yes,5,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0635,33,Male,Salaried,105209,Delhi,126095,724,Yes,Yes,Yes,Yes,40,Low,4,70,45,70,70,70,Credit Card,Medium,Medium Value
+C0636,53,Male,Business,77877,Delhi,345790,693,Yes,No,Yes,No,30,Low,2,55,70,100,45,100,Insurance,High,Medium Value
+C0637,54,Female,Salaried,88001,Hyderabad,199345,686,No,No,Yes,No,18,Low,1,55,45,80,55,80,Insurance,High,Medium Value
+C0638,55,Male,Salaried,127137,Delhi,414639,652,No,No,Yes,No,29,Low,1,55,70,80,55,80,Insurance,High,High Value
+C0639,21,Male,Self-Employed,73084,Hyderabad,143746,727,Yes,Yes,No,No,11,Low,2,50,55,75,50,75,Insurance,Medium,Medium Value
+C0640,41,Female,Salaried,111780,Delhi,462133,690,No,Yes,Yes,Yes,38,Medium,3,25,70,50,75,75,Loan,Medium,High Value
+C0641,26,Male,Self-Employed,72034,Mumbai,332225,700,No,No,No,Yes,58,High,1,100,80,25,75,100,Credit Card,High,Medium Value
+C0642,48,Female,Business,221389,Bangalore,562832,752,No,No,No,No,99,High,0,100,100,80,100,100,Credit Card,High,High Value
+C0643,37,Female,Salaried,85468,Mumbai,358891,679,No,No,Yes,Yes,35,Low,2,55,70,50,75,75,Loan,Medium,Medium Value
+C0644,25,Male,Business,200166,Delhi,439762,751,Yes,Yes,Yes,No,83,Medium,3,70,50,75,70,75,Insurance,Medium,High Value
+C0645,51,Male,Business,238868,Bangalore,761803,765,Yes,Yes,No,Yes,104,High,3,70,100,70,70,100,Investment,High,High Value
+C0646,25,Male,Salaried,40589,Bangalore,169060,657,No,No,No,No,25,Low,0,55,30,30,30,55,Credit Card,Medium,Medium Value
+C0647,58,Female,Self-Employed,92221,Pune,216826,689,No,No,Yes,Yes,29,Low,2,55,70,50,55,70,Investment,Medium,Medium Value
+C0648,23,Female,Business,51657,Mumbai,219217,683,No,No,No,Yes,6,Low,1,55,55,25,55,55,Credit Card,Medium,Medium Value
+C0649,43,Female,Salaried,128300,Pune,151307,724,Yes,Yes,No,No,46,High,2,70,75,100,70,100,Insurance,High,Medium Value
+C0650,57,Male,Business,167229,Bangalore,201136,730,Yes,No,Yes,Yes,77,High,3,100,70,70,70,100,Credit Card,High,Medium Value
+C0651,57,Female,Student,16763,Hyderabad,81978,671,No,No,No,No,5,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0652,30,Female,Salaried,82227,Bangalore,103852,673,Yes,No,No,No,14,Low,1,55,75,100,25,100,Insurance,High,Medium Value
+C0653,30,Female,Self-Employed,38164,Pune,194234,730,No,No,No,No,5,Low,0,55,50,55,55,55,Credit Card,Medium,Medium Value
+C0654,39,Female,Salaried,123078,Mumbai,655984,751,No,Yes,Yes,No,44,Low,2,70,70,80,100,100,Loan,High,High Value
+C0655,37,Female,Self-Employed,76247,Delhi,135418,705,Yes,Yes,No,Yes,13,Low,3,50,75,70,25,75,Investment,Medium,Medium Value
+C0656,41,Female,Business,200673,Delhi,611279,687,No,No,Yes,Yes,68,Medium,2,75,70,50,75,75,Credit Card,Medium,High Value
+C0657,34,Female,Salaried,123966,Mumbai,182053,725,No,Yes,Yes,No,68,High,2,70,45,80,100,100,Loan,High,Medium Value
+C0658,29,Male,Salaried,80599,Delhi,239725,675,No,Yes,Yes,No,29,Low,2,25,50,55,55,55,Insurance,Medium,Medium Value
+C0659,21,Male,Self-Employed,170624,Delhi,229668,701,Yes,Yes,No,Yes,52,High,3,70,80,45,45,80,Investment,High,Medium Value
+C0660,33,Female,Salaried,146452,Pune,289130,707,Yes,No,Yes,Yes,59,Medium,3,100,70,70,45,100,Credit Card,High,Medium Value
+C0661,24,Male,Business,190489,Mumbai,451029,714,Yes,No,Yes,No,100,High,2,100,50,75,45,100,Credit Card,High,High Value
+C0662,21,Female,Salaried,88579,Chennai,251264,704,No,Yes,No,Yes,31,Low,2,50,80,25,75,80,Investment,High,Medium Value
+C0663,60,Female,Self-Employed,103207,Hyderabad,492277,745,No,No,No,Yes,5,Low,1,80,100,50,80,100,Investment,High,High Value
+C0664,52,Female,Business,122055,Hyderabad,529726,730,Yes,Yes,Yes,Yes,55,Low,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0665,54,Male,Self-Employed,137266,Delhi,561804,796,Yes,Yes,Yes,Yes,56,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0666,48,Male,Salaried,108270,Hyderabad,329982,652,Yes,Yes,No,Yes,41,Medium,3,45,100,70,45,100,Investment,High,High Value
+C0667,51,Male,Business,161426,Mumbai,726452,710,Yes,No,Yes,No,57,Low,2,100,70,100,45,100,Credit Card,High,High Value
+C0668,28,Female,Business,184794,Mumbai,437910,709,No,Yes,Yes,Yes,57,High,3,70,50,25,75,75,Loan,Medium,High Value
+C0669,59,Female,Salaried,100442,Bangalore,395092,732,Yes,No,No,No,60,High,1,100,100,100,70,100,Credit Card,High,High Value
+C0670,46,Female,Salaried,125632,Bangalore,598843,701,Yes,No,Yes,Yes,19,Low,3,80,70,70,25,80,Credit Card,High,High Value
+C0671,54,Male,Salaried,70031,Hyderabad,162810,685,No,No,No,No,21,Low,0,55,75,80,55,80,Insurance,High,Medium Value
+C0672,23,Female,Business,71438,Chennai,250528,699,No,No,Yes,No,21,Low,1,55,50,55,55,55,Credit Card,Medium,Medium Value
+C0673,32,Female,Business,108819,Bangalore,485821,655,No,No,Yes,Yes,53,Medium,2,75,70,50,75,75,Credit Card,Medium,High Value
+C0674,21,Male,Salaried,73856,Bangalore,373750,663,Yes,No,Yes,Yes,46,Medium,3,75,50,45,45,75,Credit Card,Medium,Medium Value
+C0675,25,Female,Business,214648,Mumbai,836849,782,No,Yes,No,Yes,77,High,2,70,80,25,100,100,Loan,High,High Value
+C0676,50,Male,Salaried,71938,Chennai,135529,664,Yes,No,No,No,29,Low,1,55,75,100,25,100,Insurance,High,Medium Value
+C0677,50,Male,Salaried,79028,Delhi,194699,633,No,Yes,No,Yes,33,Medium,2,25,75,50,75,75,Investment,Medium,Medium Value
+C0678,37,Female,Student,27109,Hyderabad,37395,631,Yes,Yes,No,Yes,25,Low,3,0,50,45,0,50,Investment,Medium,Emerging
+C0679,43,Male,Self-Employed,78461,Bangalore,358432,675,No,No,Yes,No,44,Medium,1,75,70,80,75,80,Insurance,High,Medium Value
+C0680,35,Female,Business,143474,Chennai,173081,721,No,Yes,No,No,45,Low,1,70,75,80,100,100,Loan,High,Medium Value
+C0681,57,Female,Salaried,70469,Chennai,302484,678,No,No,No,Yes,33,Low,1,55,100,50,75,100,Investment,High,Medium Value
+C0682,41,Female,Self-Employed,118136,Hyderabad,189621,685,No,No,No,Yes,50,Low,1,75,75,50,75,75,Credit Card,Medium,Medium Value
+C0683,34,Male,Salaried,50435,Chennai,82555,698,Yes,No,No,No,17,Low,1,55,50,100,25,100,Insurance,High,Medium Value
+C0684,22,Male,Salaried,114117,Chennai,333241,698,Yes,No,No,No,48,Medium,1,75,80,75,45,80,Investment,High,High Value
+C0685,31,Female,Salaried,44191,Chennai,156052,673,No,Yes,No,Yes,16,Low,2,25,50,25,30,50,Investment,Medium,Medium Value
+C0686,59,Male,Business,134726,Bangalore,207186,695,No,No,Yes,Yes,52,Low,2,75,70,50,75,75,Credit Card,Medium,Medium Value
+C0687,58,Male,Business,208458,Hyderabad,576019,794,No,No,Yes,No,57,High,1,100,70,80,100,100,Credit Card,High,High Value
+C0688,54,Male,Salaried,61721,Chennai,178362,664,No,No,No,No,9,Medium,0,55,50,80,55,80,Insurance,High,Medium Value
+C0689,58,Female,Business,104786,Chennai,181946,699,No,Yes,No,No,51,Low,1,45,75,80,75,80,Insurance,High,Medium Value
+C0690,54,Male,Self-Employed,48704,Bangalore,76981,700,No,No,No,Yes,5,Low,1,80,50,25,30,80,Credit Card,High,Emerging
+C0691,38,Female,Salaried,86635,Hyderabad,358018,696,Yes,No,Yes,Yes,39,Low,3,55,70,70,45,70,Investment,Medium,Medium Value
+C0692,50,Female,Business,183195,Mumbai,528211,744,Yes,No,Yes,Yes,67,Medium,3,100,70,70,70,100,Credit Card,High,High Value
+C0693,35,Male,Self-Employed,125710,Bangalore,147132,648,Yes,No,Yes,Yes,62,Medium,3,75,45,70,45,75,Credit Card,Medium,Medium Value
+C0694,47,Male,Salaried,139837,Hyderabad,601337,735,Yes,Yes,Yes,Yes,62,Medium,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0695,54,Female,Salaried,144912,Chennai,687275,719,No,No,Yes,Yes,47,Medium,2,100,70,50,75,100,Credit Card,High,High Value
+C0696,58,Female,Business,112993,Hyderabad,350263,717,Yes,No,Yes,Yes,39,Medium,3,80,70,70,45,80,Credit Card,High,High Value
+C0697,53,Female,Business,162752,Hyderabad,470495,732,No,Yes,Yes,Yes,31,Low,3,50,70,50,100,100,Loan,High,High Value
+C0698,44,Female,Self-Employed,167886,Delhi,755214,712,Yes,No,No,No,61,High,1,100,100,100,45,100,Credit Card,High,High Value
+C0699,35,Male,Salaried,108537,Hyderabad,545157,726,Yes,No,No,No,21,Low,1,80,100,100,50,100,Investment,High,High Value
+C0700,50,Male,Student,27490,Mumbai,107403,664,Yes,No,No,No,7,Low,1,30,50,75,0,75,Insurance,Medium,Emerging
+C0701,37,Male,Salaried,46508,Hyderabad,113989,629,No,No,No,No,7,Low,0,55,50,55,30,55,Credit Card,Medium,Emerging
+C0702,25,Male,Salaried,115166,Mumbai,390952,741,Yes,Yes,Yes,Yes,30,Low,4,50,50,45,70,70,Loan,Medium,High Value
+C0703,49,Male,Business,163710,Chennai,620430,684,No,No,No,Yes,79,High,1,75,100,50,75,100,Investment,High,High Value
+C0704,24,Male,Salaried,65699,Mumbai,89133,704,Yes,No,No,No,5,Low,1,80,30,75,25,80,Credit Card,High,Medium Value
+C0705,30,Male,Salaried,76335,Chennai,185382,727,Yes,No,No,Yes,14,Low,2,80,75,70,50,80,Credit Card,High,Medium Value
+C0706,37,Female,Salaried,76806,Chennai,304783,650,No,No,Yes,No,18,Low,1,55,70,80,55,80,Insurance,High,Medium Value
+C0707,30,Female,Salaried,107853,Mumbai,439906,695,No,No,No,Yes,33,Low,1,55,100,50,75,100,Investment,High,High Value
+C0708,37,Male,Salaried,93768,Bangalore,265198,685,No,No,Yes,Yes,22,Low,2,55,70,50,55,70,Investment,Medium,Medium Value
+C0709,40,Female,Student,12971,Pune,35514,646,No,No,Yes,No,5,Low,1,30,20,55,30,55,Insurance,Medium,Emerging
+C0710,44,Male,Salaried,64785,Hyderabad,117586,732,No,Yes,No,Yes,28,Low,2,50,50,50,80,80,Loan,High,Medium Value
+C0711,25,Female,Business,213052,Delhi,543850,718,No,Yes,Yes,No,90,High,2,70,50,55,75,75,Loan,Medium,High Value
+C0712,54,Male,Self-Employed,120016,Pune,522272,695,No,Yes,No,Yes,54,Low,2,45,100,50,75,100,Investment,High,High Value
+C0713,26,Female,Self-Employed,167681,Hyderabad,317187,774,No,Yes,Yes,Yes,34,Low,3,50,50,25,100,100,Loan,High,High Value
+C0714,22,Female,Salaried,96253,Hyderabad,154673,683,Yes,Yes,No,Yes,41,Medium,3,45,55,45,45,55,Investment,Medium,Medium Value
+C0715,33,Male,Self-Employed,126128,Chennai,619423,680,No,No,No,No,53,Medium,0,75,100,80,75,100,Investment,High,High Value
+C0716,31,Male,Business,209213,Hyderabad,387616,757,Yes,Yes,No,Yes,68,Medium,3,70,100,70,70,100,Investment,High,High Value
+C0717,43,Male,Business,211081,Delhi,439346,774,No,Yes,Yes,Yes,104,High,3,70,70,50,100,100,Loan,High,High Value
+C0718,36,Male,Business,177581,Hyderabad,870632,722,Yes,Yes,Yes,Yes,82,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0719,51,Male,Self-Employed,145966,Mumbai,579036,734,Yes,Yes,Yes,Yes,52,Medium,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0720,31,Female,Salaried,36782,Pune,155723,621,No,Yes,No,No,5,Low,1,0,50,55,30,55,Insurance,Medium,Medium Value
+C0721,36,Male,Business,149352,Mumbai,710573,680,No,Yes,No,No,80,High,1,45,100,80,75,100,Investment,High,High Value
+C0722,28,Female,Business,207005,Delhi,327884,735,Yes,Yes,No,No,77,Medium,2,70,80,75,70,80,Investment,High,High Value
+C0723,24,Female,Self-Employed,112154,Hyderabad,433250,718,No,No,Yes,No,43,Medium,1,100,50,55,75,100,Credit Card,High,High Value
+C0724,60,Male,Student,18307,Delhi,48978,676,No,No,No,Yes,7,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0725,24,Female,Salaried,122207,Chennai,523504,670,No,No,Yes,No,80,High,1,75,50,55,75,75,Credit Card,Medium,High Value
+C0726,45,Male,Student,17905,Mumbai,29175,675,No,No,No,Yes,5,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0727,23,Female,Salaried,138297,Mumbai,494697,719,No,No,Yes,Yes,51,Low,2,100,50,25,75,100,Credit Card,High,High Value
+C0728,52,Male,Salaried,105874,Bangalore,287897,671,Yes,No,Yes,Yes,27,Medium,3,55,70,70,25,70,Investment,Medium,Medium Value
+C0729,23,Female,Salaried,68346,Hyderabad,191617,639,Yes,No,No,Yes,19,Low,2,55,30,45,25,55,Credit Card,Medium,Medium Value
+C0730,47,Female,Salaried,142138,Chennai,592175,723,No,Yes,Yes,No,37,Low,2,50,70,80,100,100,Loan,High,High Value
+C0731,49,Male,Business,100772,Mumbai,349393,734,No,Yes,No,No,25,Low,1,50,100,80,80,100,Investment,High,High Value
+C0732,52,Male,Salaried,102084,Mumbai,350822,697,No,No,Yes,No,11,Low,1,55,70,80,55,80,Insurance,High,High Value
+C0733,39,Female,Salaried,70149,Chennai,172546,651,No,Yes,Yes,No,39,Low,2,25,45,80,75,80,Insurance,High,Medium Value
+C0734,41,Female,Self-Employed,121700,Delhi,404350,649,Yes,No,Yes,Yes,48,Medium,3,75,70,70,45,75,Credit Card,Medium,High Value
+C0735,25,Male,Self-Employed,131758,Delhi,508110,756,Yes,Yes,No,Yes,53,Medium,3,70,80,45,70,80,Investment,High,High Value
+C0736,38,Male,Self-Employed,163447,Hyderabad,691719,758,Yes,Yes,Yes,Yes,60,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0737,48,Female,Self-Employed,40695,Bangalore,118246,674,No,No,No,No,16,Low,0,55,50,55,30,55,Credit Card,Medium,Emerging
+C0738,42,Male,Business,89169,Mumbai,418366,733,No,Yes,Yes,Yes,57,High,3,70,70,50,100,100,Loan,High,Medium Value
+C0739,41,Female,Salaried,77947,Bangalore,327048,690,No,No,Yes,Yes,17,Low,2,55,70,50,55,70,Investment,Medium,Medium Value
+C0740,26,Male,Salaried,77224,Delhi,254418,667,No,No,No,No,33,Medium,0,55,80,55,75,80,Investment,High,Medium Value
+C0741,21,Male,Business,95865,Delhi,329829,709,No,Yes,Yes,No,40,Medium,2,70,50,55,75,75,Loan,Medium,Medium Value
+C0742,25,Female,Salaried,55553,Pune,276073,647,No,No,No,No,37,Low,0,55,55,55,75,75,Loan,Medium,Medium Value
+C0743,32,Male,Business,154501,Hyderabad,500365,692,Yes,No,Yes,Yes,64,Medium,3,75,70,70,45,75,Credit Card,Medium,High Value
+C0744,46,Male,Salaried,90410,Pune,386849,713,Yes,No,No,Yes,41,Medium,2,100,100,70,45,100,Credit Card,High,Medium Value
+C0745,54,Male,Salaried,133754,Pune,504588,737,No,No,No,Yes,31,Medium,1,80,100,50,100,100,Investment,High,High Value
+C0746,34,Male,Business,140895,Pune,453110,677,No,Yes,Yes,No,40,Medium,2,45,70,80,75,80,Insurance,High,High Value
+C0747,46,Female,Business,205888,Hyderabad,408209,711,Yes,Yes,Yes,Yes,59,Low,4,70,70,70,45,70,Credit Card,Medium,High Value
+C0748,47,Male,Business,236098,Hyderabad,654180,750,Yes,Yes,Yes,No,51,Medium,3,70,70,100,70,100,Insurance,High,High Value
+C0749,29,Female,Business,100705,Chennai,517025,674,No,No,Yes,No,43,Low,1,75,50,55,75,75,Credit Card,Medium,High Value
+C0750,46,Female,Salaried,91922,Bangalore,330662,705,No,No,Yes,Yes,30,Low,2,80,70,50,75,80,Credit Card,High,Medium Value
+C0751,42,Female,Salaried,145700,Bangalore,455272,719,Yes,No,Yes,Yes,60,High,3,100,70,70,45,100,Credit Card,High,High Value
+C0752,50,Male,Self-Employed,108914,Chennai,526576,734,Yes,No,No,Yes,41,Low,2,100,100,70,70,100,Credit Card,High,High Value
+C0753,37,Male,Business,51881,Chennai,167991,680,No,Yes,No,Yes,23,Low,2,25,50,50,55,55,Loan,Medium,Medium Value
+C0754,46,Female,Salaried,69567,Delhi,241251,660,No,Yes,No,No,46,Medium,1,45,75,80,75,80,Insurance,High,Medium Value
+C0755,56,Female,Self-Employed,82365,Pune,320488,629,Yes,Yes,Yes,Yes,31,Low,4,25,70,70,45,70,Investment,Medium,Medium Value
+C0756,21,Female,Salaried,109211,Chennai,403374,705,Yes,No,Yes,Yes,51,Medium,3,100,50,45,45,100,Credit Card,High,High Value
+C0757,28,Male,Salaried,100122,Mumbai,180356,643,No,Yes,No,No,33,Medium,1,25,55,55,75,75,Loan,Medium,Medium Value
+C0758,55,Male,Salaried,55006,Bangalore,123896,652,No,No,No,Yes,33,Low,1,55,50,50,75,75,Loan,Medium,Medium Value
+C0759,35,Female,Business,91198,Chennai,254219,668,No,No,No,Yes,15,Low,1,55,100,50,55,100,Investment,High,Medium Value
+C0760,42,Female,Business,203903,Mumbai,505790,731,No,Yes,No,Yes,48,Low,2,70,100,50,100,100,Investment,High,High Value
+C0761,34,Female,Salaried,130649,Mumbai,405393,670,Yes,Yes,No,No,80,Medium,2,45,100,100,45,100,Investment,High,High Value
+C0762,46,Female,Self-Employed,171949,Mumbai,436157,709,Yes,Yes,Yes,Yes,92,High,4,70,70,70,45,70,Credit Card,Medium,High Value
+C0763,48,Female,Salaried,69553,Delhi,107423,714,Yes,No,No,Yes,5,Low,2,80,50,70,25,80,Credit Card,High,Medium Value
+C0764,43,Male,Salaried,144137,Delhi,405024,751,Yes,Yes,Yes,No,53,Low,3,70,70,100,70,100,Insurance,High,High Value
+C0765,34,Male,Salaried,34922,Mumbai,44748,708,No,No,Yes,No,15,Low,1,55,20,55,30,55,Credit Card,Medium,Emerging
+C0766,44,Male,Salaried,147018,Delhi,502914,718,No,No,Yes,Yes,66,Medium,2,100,70,50,75,100,Credit Card,High,High Value
+C0767,22,Male,Salaried,34686,Pune,142289,670,No,No,No,No,39,Medium,0,30,30,30,50,50,Loan,Medium,Emerging
+C0768,46,Female,Business,82766,Mumbai,321793,721,Yes,Yes,Yes,Yes,15,Low,4,50,70,70,50,70,Investment,Medium,Medium Value
+C0769,34,Male,Self-Employed,67006,Pune,167890,634,Yes,No,No,No,10,Low,1,55,50,100,25,100,Insurance,High,Medium Value
+C0770,27,Male,Business,81422,Pune,144731,709,Yes,No,No,Yes,30,Medium,2,80,55,45,45,80,Credit Card,High,Medium Value
+C0771,23,Male,Salaried,146590,Mumbai,260769,757,No,No,Yes,No,40,Low,1,100,50,55,100,100,Credit Card,High,Medium Value
+C0772,43,Male,Salaried,42205,Bangalore,130969,639,No,No,Yes,Yes,5,Low,2,55,20,25,30,55,Credit Card,Medium,Emerging
+C0773,38,Male,Salaried,116590,Mumbai,235116,744,No,Yes,Yes,No,40,Low,2,70,70,80,100,100,Loan,High,Medium Value
+C0774,58,Male,Salaried,53527,Mumbai,162399,733,Yes,No,No,Yes,32,Low,2,80,50,70,70,80,Credit Card,High,Medium Value
+C0775,55,Female,Self-Employed,151477,Delhi,297497,744,No,Yes,Yes,No,56,Low,2,70,70,80,100,100,Loan,High,Medium Value
+C0776,35,Male,Salaried,58202,Mumbai,276057,691,No,No,Yes,Yes,31,Low,2,55,45,50,75,75,Loan,Medium,Medium Value
+C0777,45,Female,Business,246624,Bangalore,627013,735,Yes,No,Yes,No,99,High,2,100,70,100,70,100,Credit Card,High,High Value
+C0778,57,Male,Self-Employed,96692,Delhi,198472,725,Yes,No,No,No,20,Low,1,80,75,100,50,100,Insurance,High,Medium Value
+C0779,48,Male,Salaried,112384,Hyderabad,512464,670,Yes,Yes,No,Yes,43,Low,3,45,100,70,45,100,Investment,High,High Value
+C0780,30,Male,Self-Employed,55855,Hyderabad,150878,683,Yes,Yes,No,No,5,Low,2,25,50,100,25,100,Insurance,High,Medium Value
+C0781,59,Female,Business,241444,Pune,354814,780,No,Yes,Yes,Yes,82,High,3,70,70,50,100,100,Loan,High,High Value
+C0782,37,Female,Business,75095,Pune,241948,583,No,No,Yes,No,28,Low,1,55,70,80,55,80,Insurance,High,Medium Value
+C0783,59,Male,Business,219796,Bangalore,719011,767,No,Yes,Yes,No,82,High,2,70,70,80,100,100,Loan,High,High Value
+C0784,42,Male,Salaried,79241,Chennai,286010,763,No,Yes,No,Yes,10,Low,2,50,100,50,80,100,Investment,High,Medium Value
+C0785,46,Female,Salaried,133119,Hyderabad,291222,648,Yes,Yes,Yes,No,33,Medium,3,25,70,100,45,100,Insurance,High,Medium Value
+C0786,45,Male,Salaried,82003,Pune,253874,684,No,Yes,Yes,Yes,35,Low,3,25,70,50,75,75,Loan,Medium,Medium Value
+C0787,37,Male,Salaried,98379,Hyderabad,196353,635,No,Yes,Yes,Yes,49,Medium,3,45,45,50,75,75,Loan,Medium,Medium Value
+C0788,33,Female,Business,144837,Bangalore,198491,690,Yes,Yes,No,No,51,Medium,2,45,75,100,45,100,Insurance,High,Medium Value
+C0789,40,Female,Salaried,121996,Bangalore,551996,648,Yes,No,Yes,No,41,Medium,2,75,70,100,45,100,Insurance,High,High Value
+C0790,45,Male,Self-Employed,129283,Chennai,529893,714,Yes,Yes,Yes,Yes,62,High,4,70,70,70,45,70,Credit Card,Medium,High Value
+C0791,24,Female,Business,197044,Chennai,442305,767,Yes,Yes,Yes,Yes,62,Low,4,70,50,45,70,70,Credit Card,Medium,High Value
+C0792,30,Female,Salaried,123846,Delhi,420309,719,Yes,No,Yes,No,72,High,2,100,70,100,45,100,Credit Card,High,High Value
+C0793,23,Male,Salaried,52927,Bangalore,84702,643,No,No,No,Yes,5,Low,1,55,30,25,55,55,Credit Card,Medium,Medium Value
+C0794,38,Female,Self-Employed,155589,Pune,716450,704,No,Yes,Yes,No,74,High,2,70,70,80,75,80,Insurance,High,High Value
+C0795,56,Female,Self-Employed,150657,Hyderabad,212939,728,Yes,Yes,No,No,64,Medium,2,70,100,100,70,100,Investment,High,Medium Value
+C0796,42,Male,Business,116630,Mumbai,122833,676,No,No,No,Yes,79,Medium,1,75,75,50,75,75,Credit Card,Medium,Medium Value
+C0797,54,Male,Salaried,134428,Chennai,402844,672,No,No,Yes,Yes,33,Low,2,55,70,50,75,75,Loan,Medium,High Value
+C0798,28,Male,Salaried,82347,Mumbai,266972,678,No,Yes,Yes,No,5,Low,2,25,50,55,55,55,Insurance,Medium,Medium Value
+C0799,60,Female,Salaried,129708,Pune,410638,681,Yes,Yes,No,Yes,67,Medium,3,45,100,70,45,100,Investment,High,High Value
+C0800,39,Male,Salaried,118860,Chennai,155061,716,No,Yes,Yes,No,22,Low,2,50,45,80,55,80,Insurance,High,Medium Value
+C0801,57,Female,Self-Employed,104518,Mumbai,236662,736,No,Yes,Yes,No,48,Medium,2,70,70,80,100,100,Loan,High,Medium Value
+C0802,26,Female,Business,226355,Pune,714088,836,No,No,No,No,102,High,0,100,80,55,100,100,Credit Card,High,High Value
+C0803,46,Male,Business,131326,Hyderabad,224449,720,Yes,No,Yes,Yes,54,High,3,100,70,70,70,100,Credit Card,High,Medium Value
+C0804,54,Female,Self-Employed,178277,Pune,813059,753,Yes,Yes,Yes,Yes,70,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0805,26,Male,Business,170243,Delhi,227909,712,No,Yes,Yes,No,69,High,2,70,50,55,75,75,Loan,Medium,Medium Value
+C0806,57,Female,Salaried,119874,Chennai,395568,688,Yes,No,No,No,57,Low,1,75,100,100,45,100,Investment,High,High Value
+C0807,53,Female,Salaried,42748,Bangalore,171954,704,No,No,No,No,24,Medium,0,80,50,55,30,80,Credit Card,High,Medium Value
+C0808,42,Male,Self-Employed,169164,Hyderabad,352773,721,Yes,Yes,No,Yes,45,Medium,3,70,100,70,70,100,Investment,High,High Value
+C0809,41,Male,Salaried,83311,Mumbai,289733,688,Yes,No,Yes,No,58,Medium,2,75,70,100,45,100,Insurance,High,Medium Value
+C0810,26,Male,Self-Employed,57692,Chennai,235025,710,Yes,No,No,Yes,22,Low,2,80,55,45,25,80,Credit Card,High,Medium Value
+C0811,26,Male,Self-Employed,159954,Bangalore,287962,717,Yes,Yes,Yes,No,67,High,3,70,50,75,45,75,Insurance,Medium,Medium Value
+C0812,24,Male,Salaried,53862,Pune,223829,716,No,No,No,No,30,Low,0,80,55,55,75,80,Credit Card,High,Medium Value
+C0813,50,Male,Business,180035,Bangalore,551948,752,Yes,Yes,No,No,84,High,2,70,100,100,70,100,Investment,High,High Value
+C0814,31,Female,Self-Employed,114507,Chennai,271812,715,No,Yes,Yes,Yes,58,Medium,3,70,70,50,75,75,Loan,Medium,Medium Value
+C0815,50,Male,Business,130152,Chennai,319217,690,No,Yes,Yes,No,50,Low,2,45,70,80,75,80,Insurance,High,High Value
+C0816,51,Male,Self-Employed,39926,Delhi,83392,680,No,No,Yes,Yes,15,Low,2,30,20,25,30,30,No Immediate Opportunity,Low,Emerging
+C0817,44,Female,Self-Employed,38969,Delhi,131013,651,No,No,No,No,20,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0818,29,Male,Salaried,65733,Bangalore,267056,691,Yes,No,No,Yes,41,Medium,2,75,55,45,45,75,Credit Card,Medium,Medium Value
+C0819,23,Female,Salaried,99855,Pune,436237,691,No,Yes,Yes,No,20,Low,2,25,50,55,55,55,Insurance,Medium,Medium Value
+C0820,51,Female,Self-Employed,76743,Bangalore,399037,712,No,Yes,Yes,Yes,38,Low,3,50,70,50,75,75,Loan,Medium,Medium Value
+C0821,60,Female,Business,180193,Chennai,774881,734,Yes,Yes,Yes,No,54,High,3,70,70,100,70,100,Insurance,High,High Value
+C0822,57,Male,Salaried,69876,Chennai,219586,741,Yes,Yes,No,Yes,53,Low,3,70,75,70,70,75,Investment,Medium,Medium Value
+C0823,56,Male,Salaried,137445,Mumbai,314622,705,No,Yes,Yes,No,57,Medium,2,70,70,80,75,80,Insurance,High,High Value
+C0824,44,Male,Business,70323,Delhi,304564,664,No,No,Yes,No,20,Low,1,55,70,80,55,80,Insurance,High,Medium Value
+C0825,51,Female,Self-Employed,51428,Mumbai,54875,681,Yes,No,No,No,25,Medium,1,55,50,100,25,100,Insurance,High,Medium Value
+C0826,26,Male,Self-Employed,69578,Hyderabad,259227,712,No,No,Yes,Yes,26,Low,2,80,25,25,55,80,Credit Card,High,Medium Value
+C0827,22,Male,Business,136486,Chennai,365636,745,Yes,Yes,Yes,No,48,Low,3,70,50,75,70,75,Insurance,Medium,High Value
+C0828,40,Female,Salaried,138577,Mumbai,144793,719,No,Yes,No,No,24,Low,1,50,75,80,55,80,Insurance,High,Medium Value
+C0829,48,Male,Salaried,94140,Bangalore,109822,702,Yes,No,No,Yes,19,Low,2,80,75,70,25,80,Credit Card,High,Medium Value
+C0830,31,Male,Self-Employed,142325,Delhi,358222,726,No,No,No,Yes,51,Medium,1,100,100,50,100,100,Credit Card,High,High Value
+C0831,24,Male,Salaried,113829,Delhi,379041,669,Yes,No,Yes,Yes,17,Low,3,55,50,45,25,55,Credit Card,Medium,High Value
+C0832,35,Female,Salaried,36364,Pune,103317,693,No,No,No,Yes,5,Low,1,30,50,25,30,50,Investment,Medium,Emerging
+C0833,26,Male,Salaried,65349,Bangalore,208096,639,No,Yes,No,No,17,Low,1,25,55,55,55,55,Investment,Medium,Medium Value
+C0834,50,Female,Business,181763,Pune,538348,703,No,No,Yes,Yes,56,Medium,2,100,70,50,75,100,Credit Card,High,High Value
+C0835,58,Female,Self-Employed,130598,Mumbai,478687,712,No,No,Yes,No,60,Medium,1,100,70,80,75,100,Credit Card,High,High Value
+C0836,22,Male,Salaried,96467,Hyderabad,190952,683,No,No,No,Yes,23,Low,1,55,55,25,55,55,Credit Card,Medium,Medium Value
+C0837,35,Female,Salaried,75896,Bangalore,75864,706,No,Yes,No,Yes,29,Low,2,50,75,50,55,75,Investment,Medium,Medium Value
+C0838,31,Male,Business,107062,Bangalore,365620,711,No,No,Yes,No,34,Low,1,80,70,80,75,80,Credit Card,High,High Value
+C0839,28,Male,Student,24226,Bangalore,31482,661,No,No,No,No,7,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0840,46,Female,Salaried,43861,Pune,45063,633,No,No,No,Yes,40,Medium,1,75,50,25,50,75,Credit Card,Medium,Emerging
+C0841,25,Female,Salaried,126837,Mumbai,333032,709,Yes,No,No,No,50,Medium,1,100,80,75,45,100,Credit Card,High,High Value
+C0842,26,Female,Salaried,143779,Bangalore,225729,715,Yes,Yes,Yes,Yes,59,Medium,4,70,50,45,45,70,Credit Card,Medium,Medium Value
+C0843,46,Male,Self-Employed,123302,Bangalore,392060,713,Yes,Yes,Yes,Yes,34,Low,4,50,70,70,45,70,Investment,Medium,High Value
+C0844,24,Male,Salaried,131710,Delhi,353729,698,Yes,Yes,No,Yes,58,High,3,45,80,45,45,80,Investment,High,High Value
+C0845,39,Male,Salaried,93928,Hyderabad,318316,707,No,No,No,No,44,Low,0,100,100,80,75,100,Credit Card,High,Medium Value
+C0846,40,Male,Business,91347,Delhi,375521,680,No,No,Yes,No,41,Low,1,75,70,80,75,80,Insurance,High,Medium Value
+C0847,53,Male,Self-Employed,38121,Delhi,137670,676,No,No,No,No,5,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0848,40,Male,Salaried,113793,Hyderabad,568258,725,Yes,Yes,No,No,33,Low,2,50,100,100,70,100,Investment,High,High Value
+C0849,32,Male,Self-Employed,63164,Mumbai,175035,660,Yes,No,No,No,45,High,1,75,50,100,45,100,Insurance,High,Medium Value
+C0850,21,Male,Salaried,55491,Delhi,158036,649,No,No,No,No,10,Low,0,55,30,55,55,55,Credit Card,Medium,Medium Value
+C0851,46,Male,Business,109222,Mumbai,397298,713,Yes,Yes,Yes,No,64,High,3,70,70,100,45,100,Insurance,High,High Value
+C0852,34,Male,Salaried,53165,Delhi,218789,631,No,No,Yes,Yes,11,Low,2,55,45,50,55,55,Credit Card,Medium,Medium Value
+C0853,58,Female,Business,53748,Chennai,164577,705,No,Yes,No,Yes,22,Low,2,50,50,50,55,55,Loan,Medium,Medium Value
+C0854,57,Male,Salaried,128581,Hyderabad,304624,709,Yes,Yes,No,Yes,45,Medium,3,70,100,70,45,100,Investment,High,High Value
+C0855,31,Female,Self-Employed,61553,Delhi,71248,672,Yes,Yes,No,Yes,10,Medium,3,25,50,70,25,70,Insurance,Medium,Medium Value
+C0856,56,Female,Business,166547,Chennai,181212,744,No,No,Yes,No,50,Medium,1,100,45,80,100,100,Credit Card,High,Medium Value
+C0857,33,Male,Business,110380,Pune,220113,714,Yes,No,Yes,Yes,30,Low,3,80,70,70,45,80,Credit Card,High,Medium Value
+C0858,23,Female,Self-Employed,79331,Chennai,185692,684,No,Yes,No,No,31,Low,1,25,55,55,75,75,Loan,Medium,Medium Value
+C0859,53,Female,Self-Employed,155617,Bangalore,376677,749,Yes,Yes,No,Yes,71,High,3,70,100,70,70,100,Investment,High,High Value
+C0860,26,Female,Salaried,69560,Delhi,71348,659,No,No,No,Yes,27,Low,1,55,30,25,55,55,Credit Card,Medium,Medium Value
+C0861,30,Male,Salaried,83865,Chennai,363581,708,Yes,No,Yes,No,30,Medium,2,80,70,100,45,100,Insurance,High,Medium Value
+C0862,25,Male,Self-Employed,110910,Mumbai,469941,668,No,Yes,No,No,59,Medium,1,45,80,55,75,80,Investment,High,High Value
+C0863,43,Male,Salaried,34675,Pune,151529,677,Yes,No,No,No,13,Low,1,30,50,75,0,75,Insurance,Medium,Medium Value
+C0864,30,Male,Business,247778,Delhi,722152,759,No,Yes,Yes,No,84,High,2,70,70,80,100,100,Loan,High,High Value
+C0865,22,Female,Student,18681,Bangalore,71097,614,No,Yes,No,No,5,Low,1,0,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0866,33,Female,Salaried,139021,Chennai,650105,722,Yes,Yes,No,Yes,71,High,3,70,100,70,70,100,Investment,High,High Value
+C0867,60,Male,Business,127986,Pune,318203,708,No,No,Yes,No,43,Medium,1,100,70,80,75,100,Credit Card,High,High Value
+C0868,22,Female,Salaried,106216,Delhi,231538,651,No,Yes,No,No,31,Low,1,25,80,55,75,80,Investment,High,Medium Value
+C0869,40,Male,Business,60068,Pune,287553,611,Yes,No,Yes,Yes,12,Low,3,55,45,70,25,70,Insurance,Medium,Medium Value
+C0870,21,Male,Salaried,84460,Bangalore,241300,682,Yes,Yes,Yes,Yes,49,Medium,4,45,50,45,45,50,Investment,Medium,Medium Value
+C0871,57,Female,Salaried,130766,Chennai,384403,759,Yes,No,Yes,Yes,40,Medium,3,100,70,70,70,100,Credit Card,High,High Value
+C0872,29,Male,Business,96418,Pune,177118,702,Yes,Yes,Yes,Yes,51,Medium,4,70,25,45,45,70,Credit Card,Medium,Medium Value
+C0873,37,Male,Self-Employed,61206,Pune,72570,655,Yes,Yes,No,Yes,19,Low,3,25,50,70,25,70,Insurance,Medium,Medium Value
+C0874,29,Male,Self-Employed,163180,Hyderabad,706067,759,Yes,Yes,No,No,43,Medium,2,70,80,75,70,80,Investment,High,High Value
+C0875,31,Male,Business,50287,Pune,165191,697,No,No,No,No,13,Low,0,55,50,80,55,80,Insurance,High,Medium Value
+C0876,35,Female,Salaried,52337,Hyderabad,118471,709,Yes,No,No,Yes,19,Low,2,80,50,70,25,80,Credit Card,High,Medium Value
+C0877,44,Female,Business,201738,Chennai,361322,766,Yes,Yes,Yes,Yes,73,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0878,58,Female,Salaried,146595,Delhi,484058,745,No,Yes,Yes,Yes,52,High,3,70,70,50,100,100,Loan,High,High Value
+C0879,55,Female,Self-Employed,167233,Delhi,596586,750,No,Yes,Yes,Yes,57,Medium,3,70,70,50,100,100,Loan,High,High Value
+C0880,50,Male,Self-Employed,135667,Chennai,194826,698,Yes,No,No,Yes,39,Low,2,55,75,70,45,75,Investment,Medium,Medium Value
+C0881,51,Male,Business,140071,Chennai,613752,666,Yes,No,Yes,No,52,Low,2,75,70,100,45,100,Insurance,High,High Value
+C0882,25,Female,Self-Employed,133064,Mumbai,150625,695,No,Yes,Yes,No,58,High,2,45,25,55,75,75,Loan,Medium,Medium Value
+C0883,34,Male,Salaried,68751,Chennai,158970,712,Yes,No,No,Yes,5,Low,2,80,50,70,25,80,Credit Card,High,Medium Value
+C0884,31,Female,Business,156511,Pune,600078,711,Yes,No,Yes,No,78,High,2,100,70,100,45,100,Credit Card,High,High Value
+C0885,29,Female,Salaried,119389,Delhi,274252,700,No,No,No,Yes,5,Low,1,80,80,25,55,80,Credit Card,High,Medium Value
+C0886,54,Male,Self-Employed,38178,Bangalore,189468,629,No,No,Yes,No,15,Low,1,30,20,55,30,55,Insurance,Medium,Medium Value
+C0887,32,Female,Salaried,61831,Delhi,269523,659,Yes,Yes,No,No,30,Low,2,25,75,100,45,100,Insurance,High,Medium Value
+C0888,55,Female,Business,183248,Hyderabad,758116,736,No,Yes,Yes,No,59,Medium,2,70,70,80,100,100,Loan,High,High Value
+C0889,55,Female,Self-Employed,138306,Delhi,232169,729,No,No,No,Yes,20,Low,1,80,100,50,80,100,Investment,High,Medium Value
+C0890,21,Male,Salaried,63654,Mumbai,131376,663,No,No,No,Yes,22,Low,1,55,30,25,55,55,Credit Card,Medium,Medium Value
+C0891,60,Male,Salaried,56627,Chennai,124291,657,No,No,No,Yes,23,Low,1,55,50,50,55,55,Credit Card,Medium,Medium Value
+C0892,42,Male,Self-Employed,147025,Chennai,475250,743,Yes,No,Yes,Yes,37,Low,3,80,70,70,70,80,Credit Card,High,High Value
+C0893,49,Male,Salaried,74910,Delhi,299870,692,No,No,Yes,Yes,15,Low,2,55,70,50,55,70,Investment,Medium,Medium Value
+C0894,28,Male,Salaried,120417,Bangalore,551551,718,Yes,Yes,No,No,59,Medium,2,70,80,75,45,80,Investment,High,High Value
+C0895,31,Female,Salaried,88251,Bangalore,333650,734,Yes,Yes,Yes,Yes,34,Medium,4,50,70,70,70,70,Investment,Medium,Medium Value
+C0896,57,Male,Salaried,65422,Mumbai,296234,662,Yes,Yes,Yes,No,5,Low,3,25,45,100,25,100,Insurance,High,Medium Value
+C0897,34,Female,Self-Employed,46984,Hyderabad,163420,666,No,Yes,No,Yes,24,Low,2,25,50,25,30,50,Investment,Medium,Medium Value
+C0898,50,Female,Business,139312,Delhi,306506,731,Yes,Yes,Yes,No,38,Low,3,50,70,100,70,100,Insurance,High,High Value
+C0899,55,Female,Salaried,91386,Chennai,189972,664,Yes,Yes,Yes,Yes,22,Low,4,25,45,70,25,70,Insurance,Medium,Medium Value
+C0900,41,Male,Salaried,113291,Delhi,409863,708,Yes,Yes,Yes,No,45,Medium,3,70,70,100,45,100,Insurance,High,High Value
+C0901,57,Female,Salaried,37135,Mumbai,60781,664,No,Yes,No,No,15,Low,1,0,50,55,30,55,Insurance,Medium,Emerging
+C0902,25,Male,Salaried,30320,Pune,31033,743,Yes,Yes,No,No,5,Low,2,25,30,50,25,50,Insurance,Medium,Emerging
+C0903,39,Male,Salaried,132958,Pune,394471,714,No,Yes,Yes,No,42,Low,2,70,70,80,75,80,Insurance,High,High Value
+C0904,34,Female,Salaried,124171,Mumbai,552984,741,Yes,No,No,Yes,42,Medium,2,100,100,70,70,100,Credit Card,High,High Value
+C0905,46,Male,Salaried,51684,Chennai,96880,695,Yes,No,Yes,Yes,7,Low,3,55,20,70,25,70,Insurance,Medium,Medium Value
+C0906,24,Male,Business,236985,Mumbai,1008279,729,Yes,Yes,Yes,Yes,105,High,4,70,50,45,70,70,Credit Card,Medium,High Value
+C0907,45,Female,Salaried,118774,Chennai,502665,657,Yes,No,Yes,Yes,21,Low,3,55,70,70,25,70,Investment,Medium,High Value
+C0908,45,Male,Business,202961,Bangalore,594044,754,No,No,Yes,Yes,72,High,2,100,70,50,100,100,Credit Card,High,High Value
+C0909,38,Male,Business,148071,Mumbai,160751,756,Yes,Yes,No,Yes,33,Low,3,50,75,70,70,75,Investment,Medium,Medium Value
+C0910,60,Male,Business,229971,Chennai,398866,768,No,Yes,No,No,100,High,1,70,100,80,100,100,Investment,High,High Value
+C0911,28,Female,Business,191842,Mumbai,738090,743,No,Yes,No,No,68,High,1,70,80,55,100,100,Loan,High,High Value
+C0912,59,Female,Business,220393,Mumbai,904755,746,Yes,Yes,Yes,Yes,66,Low,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0913,60,Male,Self-Employed,144863,Chennai,687158,677,No,No,Yes,No,64,Medium,1,75,70,80,75,80,Insurance,High,High Value
+C0914,34,Male,Business,91777,Chennai,311990,662,Yes,No,No,Yes,5,Low,2,55,100,70,25,100,Investment,High,Medium Value
+C0915,52,Male,Business,96250,Hyderabad,143199,644,No,No,Yes,Yes,40,Medium,2,75,45,50,75,75,Credit Card,Medium,Medium Value
+C0916,58,Male,Self-Employed,108034,Mumbai,180527,665,No,Yes,No,Yes,57,Medium,2,45,75,50,75,75,Investment,Medium,Medium Value
+C0917,53,Female,Business,154940,Pune,583554,706,Yes,No,Yes,Yes,60,Medium,3,100,70,70,45,100,Credit Card,High,High Value
+C0918,43,Male,Salaried,70130,Mumbai,144478,703,Yes,Yes,Yes,Yes,18,Low,4,50,45,70,25,70,Insurance,Medium,Medium Value
+C0919,35,Male,Salaried,111931,Mumbai,237214,687,Yes,No,Yes,Yes,23,Low,3,55,70,70,25,70,Investment,Medium,Medium Value
+C0920,53,Female,Salaried,79346,Chennai,222748,692,No,No,No,Yes,46,Medium,1,75,100,50,75,100,Investment,High,Medium Value
+C0921,45,Female,Self-Employed,168609,Mumbai,148547,733,Yes,Yes,No,No,77,High,2,70,75,100,70,100,Insurance,High,Medium Value
+C0922,37,Female,Business,65216,Delhi,142405,692,Yes,Yes,No,No,14,Low,2,25,50,100,25,100,Insurance,High,Medium Value
+C0923,53,Male,Self-Employed,119149,Mumbai,318546,673,No,No,No,Yes,35,Low,1,55,100,50,75,100,Investment,High,High Value
+C0924,22,Male,Business,53009,Delhi,101072,703,Yes,Yes,No,No,37,Low,2,50,30,75,45,75,Insurance,Medium,Medium Value
+C0925,34,Male,Salaried,119904,Pune,166726,662,No,Yes,Yes,No,52,Medium,2,45,45,80,75,80,Insurance,High,Medium Value
+C0926,60,Male,Salaried,59327,Chennai,259664,661,Yes,No,No,Yes,5,Low,2,55,75,70,25,75,Investment,Medium,Medium Value
+C0927,60,Female,Business,195281,Mumbai,827778,742,No,Yes,Yes,Yes,70,Medium,3,70,70,50,100,100,Loan,High,High Value
+C0928,59,Female,Business,229515,Delhi,450550,782,No,Yes,Yes,Yes,82,High,3,70,70,50,100,100,Loan,High,High Value
+C0929,26,Female,Student,25029,Delhi,140999,698,No,No,No,No,13,Low,0,30,30,30,30,30,No Immediate Opportunity,Low,Emerging
+C0930,26,Female,Salaried,97613,Delhi,235011,716,No,No,No,No,36,Low,0,80,80,55,75,80,Credit Card,High,Medium Value
+C0931,23,Male,Business,238069,Bangalore,743346,806,Yes,Yes,No,Yes,81,High,3,70,80,45,70,80,Investment,High,High Value
+C0932,27,Female,Business,152171,Hyderabad,650185,696,Yes,No,No,Yes,59,High,2,75,80,45,45,80,Investment,High,High Value
+C0933,28,Male,Business,164456,Pune,650694,763,Yes,No,Yes,No,55,Medium,2,100,50,75,70,100,Credit Card,High,High Value
+C0934,35,Male,Business,112559,Mumbai,485097,731,No,Yes,No,Yes,93,High,2,70,100,50,100,100,Investment,High,High Value
+C0935,49,Male,Self-Employed,99892,Bangalore,153414,623,No,Yes,Yes,No,39,Medium,2,25,45,80,75,80,Insurance,High,Medium Value
+C0936,53,Male,Salaried,100409,Mumbai,133286,688,Yes,No,No,No,37,Medium,1,55,75,100,45,100,Insurance,High,Medium Value
+C0937,50,Male,Business,189707,Mumbai,856870,758,Yes,Yes,Yes,Yes,98,High,4,70,70,70,70,70,Credit Card,Medium,High Value
+C0938,59,Female,Business,83065,Chennai,179970,671,No,No,Yes,Yes,10,Low,2,55,45,50,55,55,Credit Card,Medium,Medium Value
+C0939,47,Male,Self-Employed,155544,Chennai,363967,690,Yes,Yes,Yes,Yes,56,Medium,4,45,70,70,45,70,Investment,Medium,High Value
+C0940,56,Male,Self-Employed,142340,Chennai,545396,779,Yes,Yes,No,No,39,Medium,2,50,100,100,70,100,Investment,High,High Value
+C0941,49,Male,Salaried,63783,Bangalore,282959,680,Yes,Yes,No,Yes,33,Low,3,25,75,70,45,75,Investment,Medium,Medium Value
+C0942,58,Female,Salaried,64152,Mumbai,299512,681,No,No,Yes,Yes,16,Low,2,55,45,50,55,55,Credit Card,Medium,Medium Value
+C0943,53,Female,Student,18745,Hyderabad,48613,614,No,No,No,No,15,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0944,57,Female,Business,232574,Pune,1011211,743,Yes,Yes,No,Yes,94,High,3,70,100,70,70,100,Investment,High,High Value
+C0945,47,Male,Self-Employed,64092,Chennai,97781,650,No,No,Yes,Yes,35,Medium,2,55,20,50,75,75,Loan,Medium,Medium Value
+C0946,53,Female,Salaried,47653,Chennai,67392,701,Yes,No,No,No,25,Low,1,80,50,75,0,80,Credit Card,High,Emerging
+C0947,24,Male,Business,221541,Mumbai,778056,771,No,No,No,Yes,79,High,1,100,80,25,100,100,Credit Card,High,High Value
+C0948,42,Female,Self-Employed,121483,Mumbai,155660,688,No,No,Yes,Yes,24,Low,2,55,45,50,55,55,Credit Card,Medium,Medium Value
+C0949,22,Female,Self-Employed,156585,Bangalore,393545,740,Yes,No,Yes,No,73,Medium,2,100,50,75,70,100,Credit Card,High,High Value
+C0950,30,Male,Salaried,89754,Bangalore,316682,682,No,No,Yes,No,54,Low,1,75,70,80,75,80,Insurance,High,Medium Value
+C0951,25,Male,Business,211050,Chennai,504075,757,No,Yes,Yes,Yes,65,Medium,3,70,50,25,100,100,Loan,High,High Value
+C0952,30,Male,Business,137592,Mumbai,225865,720,Yes,No,Yes,No,62,Low,2,100,70,100,70,100,Credit Card,High,Medium Value
+C0953,53,Male,Salaried,124543,Hyderabad,225977,719,Yes,Yes,No,Yes,29,Low,3,50,100,70,25,100,Investment,High,Medium Value
+C0954,58,Male,Business,93169,Pune,224441,700,No,Yes,Yes,No,38,High,2,50,70,80,75,80,Insurance,High,Medium Value
+C0955,33,Female,Business,229359,Mumbai,645202,772,Yes,No,Yes,Yes,92,High,3,100,70,70,70,100,Credit Card,High,High Value
+C0956,51,Male,Self-Employed,89745,Mumbai,357657,727,No,Yes,Yes,Yes,27,Low,3,50,70,50,80,80,Loan,High,Medium Value
+C0957,56,Male,Salaried,140168,Delhi,604216,734,No,No,Yes,Yes,54,Low,2,100,70,50,100,100,Credit Card,High,High Value
+C0958,44,Male,Salaried,143985,Bangalore,421052,707,Yes,No,No,Yes,66,Medium,2,100,100,70,45,100,Credit Card,High,High Value
+C0959,35,Male,Salaried,35543,Pune,171540,659,No,No,No,Yes,11,Medium,1,30,50,25,30,50,Investment,Medium,Medium Value
+C0960,49,Female,Salaried,86392,Chennai,113127,725,Yes,No,No,Yes,22,Low,2,80,75,70,50,80,Credit Card,High,Medium Value
+C0961,28,Male,Salaried,51067,Mumbai,104454,673,No,Yes,No,No,5,Low,1,25,30,55,55,55,Insurance,Medium,Medium Value
+C0962,25,Female,Self-Employed,86033,Chennai,417089,676,Yes,Yes,Yes,Yes,26,Medium,4,25,50,45,25,50,Investment,Medium,Medium Value
+C0963,49,Female,Salaried,75256,Mumbai,164752,663,No,No,Yes,No,10,Low,1,55,45,80,55,80,Insurance,High,Medium Value
+C0964,24,Female,Self-Employed,121803,Chennai,608971,714,No,Yes,Yes,Yes,40,Medium,3,70,50,25,75,75,Loan,Medium,High Value
+C0965,32,Female,Student,17206,Pune,81521,627,No,No,No,No,5,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0966,22,Male,Business,168843,Bangalore,723013,768,No,Yes,Yes,Yes,75,High,3,70,50,25,100,100,Loan,High,High Value
+C0967,47,Female,Self-Employed,63992,Pune,203000,645,No,Yes,No,Yes,25,Low,2,25,75,50,55,75,Investment,Medium,Medium Value
+C0968,51,Male,Self-Employed,83803,Delhi,230509,731,Yes,No,No,No,69,Medium,1,100,100,100,70,100,Credit Card,High,Medium Value
+C0969,56,Male,Business,159975,Hyderabad,417050,716,No,No,Yes,Yes,29,Low,2,80,70,50,55,80,Credit Card,High,High Value
+C0970,56,Female,Salaried,93477,Bangalore,364540,659,No,Yes,Yes,Yes,39,Medium,3,25,70,50,75,75,Loan,Medium,Medium Value
+C0971,46,Female,Salaried,43210,Pune,148509,672,No,Yes,Yes,Yes,9,Low,3,25,20,25,30,30,No Immediate Opportunity,Low,Emerging
+C0972,47,Female,Business,76270,Delhi,345893,654,No,No,Yes,No,14,Medium,1,55,70,80,55,80,Insurance,High,Medium Value
+C0973,25,Male,Self-Employed,171269,Hyderabad,358994,731,Yes,No,No,Yes,63,Medium,2,100,80,45,70,100,Credit Card,High,High Value
+C0974,40,Male,Salaried,143857,Delhi,207608,699,No,Yes,Yes,Yes,52,Medium,3,45,70,50,75,75,Loan,Medium,Medium Value
+C0975,31,Female,Self-Employed,42452,Mumbai,110484,694,No,Yes,No,Yes,32,Low,2,25,50,25,50,50,Investment,Medium,Emerging
+C0976,30,Male,Business,91486,Mumbai,352096,694,No,No,No,Yes,35,Low,1,55,100,50,75,100,Investment,High,Medium Value
+C0977,60,Female,Salaried,44859,Chennai,194009,631,No,No,No,Yes,6,Medium,1,55,50,25,30,55,Credit Card,Medium,Medium Value
+C0978,58,Female,Student,12172,Bangalore,53184,633,No,Yes,No,No,9,Low,1,0,50,55,30,55,Insurance,Medium,Emerging
+C0979,26,Male,Business,161462,Mumbai,609854,747,Yes,Yes,Yes,No,57,Medium,3,70,50,75,70,75,Insurance,Medium,High Value
+C0980,28,Male,Salaried,46663,Delhi,129139,706,Yes,No,No,No,5,Low,1,80,30,50,0,80,Credit Card,High,Emerging
+C0981,43,Male,Business,143076,Bangalore,477011,715,Yes,No,No,Yes,49,Medium,2,100,100,70,45,100,Credit Card,High,High Value
+C0982,46,Male,Salaried,148665,Mumbai,682006,688,Yes,Yes,Yes,Yes,59,Medium,4,45,70,70,45,70,Investment,Medium,High Value
+C0983,32,Female,Business,69053,Chennai,172126,711,No,No,No,Yes,27,Low,1,80,50,50,55,80,Credit Card,High,Medium Value
+C0984,46,Male,Salaried,41085,Pune,71147,686,Yes,Yes,No,No,20,Low,2,25,50,75,0,75,Insurance,Medium,Emerging
+C0985,33,Female,Salaried,60564,Chennai,297435,714,Yes,No,Yes,Yes,14,Low,3,80,45,70,25,80,Credit Card,High,Medium Value
+C0986,60,Male,Student,13981,Hyderabad,85800,660,Yes,No,No,No,10,Low,1,30,50,75,0,75,Insurance,Medium,Emerging
+C0987,38,Female,Business,202225,Mumbai,656655,730,No,Yes,Yes,Yes,77,High,3,70,70,50,100,100,Loan,High,High Value
+C0988,45,Male,Salaried,35247,Hyderabad,124283,678,No,No,No,No,15,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
+C0989,53,Male,Salaried,40553,Hyderabad,114902,674,Yes,No,No,Yes,15,Low,2,55,50,45,0,55,Credit Card,Medium,Emerging
+C0990,60,Male,Self-Employed,172207,Delhi,533115,714,No,No,Yes,Yes,97,High,2,100,70,50,75,100,Credit Card,High,High Value
+C0991,32,Female,Salaried,35573,Bangalore,166442,668,No,Yes,No,Yes,30,Low,2,0,50,25,50,50,Investment,Medium,Medium Value
+C0992,56,Female,Salaried,148819,Delhi,558524,713,Yes,No,Yes,No,60,Low,2,100,70,100,45,100,Credit Card,High,High Value
+C0993,24,Female,Salaried,109267,Mumbai,241992,721,No,Yes,Yes,Yes,29,Low,3,50,50,25,80,80,Loan,High,Medium Value
+C0994,25,Male,Salaried,37189,Hyderabad,109210,678,Yes,No,No,No,9,Low,1,30,30,50,0,50,Insurance,Medium,Emerging
+C0995,57,Male,Self-Employed,115077,Pune,235875,671,No,No,Yes,No,67,Medium,1,75,70,80,75,80,Insurance,High,Medium Value
+C0996,28,Male,Business,224718,Hyderabad,370246,723,Yes,No,Yes,No,75,Medium,2,100,50,75,70,100,Credit Card,High,High Value
+C0997,48,Male,Salaried,106623,Pune,168248,695,No,No,No,No,37,Low,0,55,75,80,75,80,Insurance,High,Medium Value
+C0998,51,Male,Business,181004,Delhi,467606,736,Yes,Yes,No,No,64,Medium,2,70,100,100,70,100,Investment,High,High Value
+C0999,29,Female,Salaried,141971,Delhi,194017,738,No,Yes,Yes,No,58,Medium,2,70,25,55,100,100,Loan,High,Medium Value
+C1000,49,Female,Student,12776,Bangalore,9394,666,No,No,No,No,5,Low,0,30,50,55,30,55,Insurance,Medium,Emerging
