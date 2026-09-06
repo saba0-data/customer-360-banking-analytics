@@ -775,12 +775,12 @@ GitHub: https://github.com/saba0-data
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you found this project useful, consider giving the repository a ⭐.
 
 ---
 
-# 📄 License
+#  License
 
 This project is created for educational and portfolio purposes.
