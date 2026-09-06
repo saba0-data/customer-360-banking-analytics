@@ -488,7 +488,7 @@ The project is an independent portfolio project designed to demonstrate how cust
 The opportunity scores and Next Best Product recommendations are rule-based analytical demonstrations and should not be interpreted as financial advice or actual banking product eligibility decisions.
 
  Author
-Saba Sultana
+Saba Sulthana
 
 M.Sc. Data Science | Data Analytics | Business Intelligence
 
